@@ -1,7 +1,7 @@
 [Rank]
 In Purificatione Beatae Mariae Virginis;;Duplex class;;5.1;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 In Purificatione Beatae Mariae Virginis;;Duplex class;;5;;ex C11
 
 [Rule]
@@ -10,7 +10,7 @@ ex C11;
 Doxology=Nat
 Festum Domini
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 !Mal 3:1
 v. Behold I send my angel, and he shall prepare the way before my face. And~
 presently the Lord, whom you seek, and the angel of the testament, whom you~

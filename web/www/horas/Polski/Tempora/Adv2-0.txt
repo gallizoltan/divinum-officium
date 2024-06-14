@@ -1,7 +1,7 @@
 [Rank]
 II Niedziela Adwentu;;Semiduplex;;5.6
 
-[Rank1960]
+[Rank] (rubrica 1960)
 II Niedziela Adwentu;;Semiduplex;;6
 
 [Rule]
@@ -15,7 +15,7 @@ Oto ukaże się * Pan, a nie skłamie: jeśliby odwłaczał, oczekiwaj Go, bo pr
 Góry i pagórki * będą śpiewać Bogu chwałę, a wszystkie drzewa polne rękoma klaskać będą: bo przyjdzie Pan, władca na wieczne królowanie, alleluja, alleluja.
 Oto Pan * nasz w mocy przyjdzie i oświeci oczy sług swoich, alleluja.
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 !Rz 15:4
 v. Bracia: Cokolwiek napisano, ku naszej nauce napisano: abyśmy przez cierpliwość i pociechę Pisma, nadzieję mieli.
 $Deo gratias
@@ -64,7 +64,7 @@ Homilia świętego Grzegorza, Papieża
 Po zobaczeniu tylu znaków i tylu mocy każdy mógł być nie zgorszony, ale pełen uwielbienia. Jednak umysł niewiernych doznał w Nim ciężkiego zgorszenia, kiedy ujrzał, że On, mimo iż dokonał tylu cudów, umiera. Stąd i Paweł mówi: My zaś opowiadamy Chrystusa ukrzyżowanego, dla Żydów wprawdzie zgorszenie, a dla pogan głupstwo (1 Kor 1, 23). Głupie wszak ludziom się wydało, by Twórca życia miał za ludzi umrzeć — i człowiek powziął przeciw Niemu zgorszenie z powodu, dla którego przypadła mu powinność stawania się jeszcze bardziej Jego dłużnikiem. Bóg bowiem ma być przez ludzi czczony tym godniej, że dla ludzi przyjął na siebie nawet niegodności.
 
 [Lectio8]
-Czymże więc Jest stwierdzenie: Błogosławiony jest, który się ze Mnie nie zgorszy, Jeśli nie jawnym zaznaczeniem odpychającego charakteru Jego śmierci i upokorzenia, jakie ona niesie? Jakby wprost mówił: Czynię wprawdzie cuda, lecz nie uważam za niegodne przejść przez rzeczy odpychające. Skoro zatem podążam za tobą umierając, to ludzie pilnie powinni baczyć, by okażując cześć znakom, nie patrzyli z góry na Moją śmierć.
+Czymże więc jest stwierdzenie: Błogosławiony jest, który się ze Mnie nie zgorszy, Jeśli nie jawnym zaznaczeniem odpychającego charakteru Jego śmierci i upokorzenia, jakie ona niesie? Jakby wprost mówił: Czynię wprawdzie cuda, lecz nie uważam za niegodne przejść przez rzeczy odpychające. Skoro zatem podążam za tobą umierając, to ludzie pilnie powinni baczyć, by okażując cześć znakom, nie patrzyli z góry na Moją śmierć.
 
 [Responsory8]
 R. Pospiesz się, nie omieszkiwajże, Panie:

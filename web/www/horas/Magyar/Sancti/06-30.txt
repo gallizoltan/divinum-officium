@@ -1,7 +1,7 @@
 [Rank]
 In Commemoratione S. Pauli Apostoli;;Duplex majus;;4;;ex C1
 
-[Rank1960]
+[Rank] (rubrica 1960)
 In Commemoratione S. Pauli Apostoli;;Duplex;;3;;vide C1
 
 [Rule]
@@ -13,11 +13,6 @@ Psalm5 Vespera=116
 Psalm5 Vespera3=138
 Sub unica concl
 No prima vespera
-
-[Capitulum Vespera]
-!2 Tim 4:7-8
-v. A jó harcot megharcolam, a pályát végigfutottam, hitemet megtartottam. Készen vár az igazság győzelmi koszorúja, amelyet azon a napon megad nekem az Úr, az igazságos bíró
-$Deo gratias
 
 [Hymnus Matutinum]
 Ó drága doktor, Pál, neveld erkölcseink
@@ -84,11 +79,6 @@ _
 [Lectio Prima]
 !1 Cor 15:9-10
 v. Én ugyanis az utolsó vagyok az apostolok közt, s arra sem méltó, hogy apostolnak hívjanak, hiszen üldöztem az Isten egyházát. De Isten kegyelméből vagyok az, ami vagyok, s rám árasztott kegyelme nem maradt bennem hatástalan.
-
-[Capitulum Tertia]
-!2 Tim 4:7-8
-v. A jó harcot megharcolam, a pályát végigfutottam, hitemet megtartottam. Készen vár az igazság győzelmi koszorúja, amelyet azon a napon megad nekem az Úr, az igazságos bíró
-$Deo gratias
 
 [Capitulum Sexta]
 !2 Cor 12:7-9

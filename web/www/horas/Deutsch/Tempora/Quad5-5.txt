@@ -1,7 +1,7 @@
 [Rank]
 Fest der Sieben Schmerzen der heiligen Jungfrau Maria;;Duplex majus;;4
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Fest der Sieben Schmerzen der heiligen Jungfrau Maria;;Commemoratio;;1
 
 [Ant Vespera]
@@ -10,11 +10,6 @@ Mein Geliebter * ist so bleich und rotschillernd: das Haar seines Hauptes ist wi
 Wo ist er denn hin, * dein Geliebter, o du Schönste unter den Frauen? Wohin hat sich dein Liebling entfernt?;;139
 Ein Myrrhensträußlein * ist mir mein Geliebter, das an meiner Brust mir anliegt.;;140
 Gewährt mir Erfrischung durch Blumen, * legt mir Früchte um, denn ich verschmachte vor Liebe.;;141
-
-[Capitulum Vespera]
-!Jes 53:1-2
-v. Ist das unglaublich, was ich vernommen? Und was du, o Herr, gewirkt hast, ist das jemandem begreiflich? Ach, es erhebt sich etwas wie ein Zweiglein vor mir, wie ein aus dürrem Erdreich sprossendes Pflänzchen.
-$Deo gratias
 
 [Hymnus Vespera]
 {:H-Stabatmater:}v. Ach, da stand die Schmerzensreiche
@@ -236,7 +231,9 @@ R. Et Dominicæ passionis fructum sentiamus.
 @:Ant Vespera:s/;;.*//g
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Jes 53:1-2
+v. Ist das unglaublich, was ich vernommen? Und was du, o Herr, gewirkt hast, ist das jemandem begreiflich? Ach, es erhebt sich etwas wie ein Zweiglein vor mir, wie ein aus dürrem Erdreich sprossendes Pflänzchen.
+$Deo gratias
 
 [Hymnus Laudes]
 {:H-Stabatmater:}v. Virgo virginum præclara,
@@ -284,9 +281,6 @@ $Per Dominum
 [Lectio Prima]
 !Isa 53:8
 Generationem ejus quis enarrabit, quia abscissus est de terra viventium; propter scelus populi mei percussi eum.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Responsory Tertia]
 R.br. Posuit me * Desolatam.

@@ -4,7 +4,7 @@ Wspomnienie Wszystkich Wiernych Zmarłych;;Duplex;;3;;ex C9
 [RankNewcal]
 Wspomnienie Wszystkich Wiernych Zmarłych;;Duplex Solemnity;;6;;ex C9
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Wspomnienie Wszystkich Wiernych Zmarłych;;I. classis;;6;;ex C9
 
 [Rule]
@@ -100,7 +100,7 @@ Z Pierwszego Listu Świętego Pawła Apostoła do Koryntian
 36 Głupi, co ty siejesz, nie bywa ożywiono, jeźli pierwéj nie obumrze.
 37 I co siejesz, nie siejesz ciała, które ma być, ale gołe ziarno, jako na przykład, pszeniczne albo z inszych które.
 38 A Bóg daje mu ciało jako chce, a każdemu nasieniu własne ciało.
-39 Nie każde ciało tóż ciało; ale insze ludzkie, insze bydlęce, insze ptasze, insze rybie.
+39 Nie każde ciało toż ciało; ale insze ludzkie, insze bydlęce, insze ptasze, insze rybie.
 40 I ciała niebieskie, i ciała ziemskie; aleć insza jest ozdoba niebieskich, a insza ziemskich.
 41 Insza jasność słońca, insza jasność księżyca a insza jasność gwiazd; albowiem gwiazda od gwiazdy różna jest w jasności.
 42 Tak i zmartwychwstanie. Bywa wsiane w skazitelności, powstanie w nieskazitelności.
@@ -131,14 +131,15 @@ $Credo
 
 &special('Oratio mortuorum2', 'Polski')
 
+#Martyrologium
 &martyrologium
-
+_
 V. W wiecznéj pamiątce będzie sprawiedliwy.
 R. Nie będzie się bał posłuchu złego.
 _
 $Oremus
 Boże, dawco przebaczenia i zbawienia ludzkiego miłośniku: błagamy łaskawości Twojej, abyś duszom sług i służebnic Twoich, które z tego świata zeszły, za wstawieniem się błogosławionej Marji, zawsze Panny i wszystkich Świętych Twoich, do uczestnictwa w wiecznej szczęśliwości dojść dozwolił. Przez Chrystusa Pana naszego.
-R. Amen
+$Amen
 
 &special('Conclusio', 'Polski')
 

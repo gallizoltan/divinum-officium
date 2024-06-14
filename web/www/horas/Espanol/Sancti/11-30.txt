@@ -1,7 +1,7 @@
 [Rank]
 S. Andreæ Apostoli;;Duplex 2 classis;;5.1;;ex C1
 
-[Rank1960]
+[Rank] (rubrica 1960)
 S. Andreæ Apostoli;;Duplex 2 classis;;5;;ex C1
 
 [Rule]
@@ -18,11 +18,6 @@ San Andrés * oraba diciendo: Señor, Rey de la gloria eterna, recibe a tu sierv
 Andrés, siervo de Cristo, * digno apóstol de Dios, hermano de Pedro y asociado a él en el martirio.
 Maximila, amada de Cristo, * recogió el cuerpo del apóstol y lo enterró con perfumes en un sepulcro digno.
 A los que perseguían al justo, * los arrojaste al abismo, Señor, y fuiste modelo del justo en la cruz.
-
-[Capitulum Vespera]
-!Rom 10:10-11
-v. Hermanos: Por la fe del corazón llegamos a la justicia, y por la profesión de labios a la salvación. Dice la Escritura: Nadie que cree en Él, quedará defraudado.
-$Deo gratias
 
 [Ant 1]
 Uno de los dos * que siguieron al Señor era Andrés, hermano de Simón. Aleluya.
@@ -43,7 +38,7 @@ El bienaventurado Andrés, * viviendo dos días suspendido en la cruz por el nom
 V. Les constituirás príncipes sobre toda la tierra.
 R. Se acordarán, Señor, de tu nombre.
 No permitas, Señor, que tu siervo * se separe de ti: tiempo es ya de entregar a la tierra mi cuerpo, y de que mandes me presente a ti.;;74
-Andrés suplicaba al pueblo,* que no impidiese su martirio.;;96
+Andrés suplicaba al pueblo, * que no impidiese su martirio.;;96
 Sepárame de los hombres, y vuélveme a mi Maestro, a fin de que por ti me reciba el que por tu medio me redimió, aleluya.;;98
 V. Vuestros amigos, oh Dios, han sido honrados en gran manera.
 R. Su autoridad ha sido establecida con gran firmeza.
@@ -159,7 +154,9 @@ Pero quizás diga alguno en el secreto de su pensamiento: Esos dos pescadores, q
 @:Ant Vespera
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Rom 10:10-11
+v. Hermanos: Por la fe del corazón llegamos a la justicia, y por la profesión de labios a la salvación. Dice la Escritura: Nadie que cree en Él, quedará defraudado.
+$Deo gratias
 
 [Ant 2]
 Concédenos al hombre justo, * devuélvenos al hombre santo: no des muerte al hombre que Dios quiere, justo, manso y pío.
@@ -167,9 +164,6 @@ Concédenos al hombre justo, * devuélvenos al hombre santo: no des muerte al ho
 [Lectio Prima]
 !Rom 10:16-18
 v. Dice el profeta Isaías: Señor, ¿quién ha dado fe a nuestro mensaje? Así, pues, la fe nace del mensaje, y el mensaje consiste en hablar de Cristo. Pero yo pregunto: ¿Es que no lo han oído? Todo lo contrario: A toda la tierra alcanza su pregón y hasta los límites del orbe su lenguaje.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Capitulum Sexta]
 !Rom 10:12-13

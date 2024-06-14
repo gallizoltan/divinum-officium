@@ -1,10 +1,10 @@
 [Rank]
 In Octava Ss. Innocentium.;;Simplex;;1.1;;vide Sancti/12-28
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Die Quarta Januarii;;Feria;;1.2;;vide Sancti/01-01
 
-[RankTrident]
+[Rank] (rubrica tridentina)
 In Octava Ss. Innocentium.;;Duplex;;3;;ex Sancti/12-28
 
 [Rule]
@@ -55,6 +55,3 @@ journey far, and dwell in a strange land. thy works belie thy words. But Joseph~
 said none of these things, for he was faithful; neither did he curiously ask of~
 the angel the time of his return, which God was not pleased to show him, but~
 only to send him that word, Be thou there until I bring thee word.
-
-[Capitulum Vespera](rubrica 1960)
-@Sancti/01-01:Capitulum Vespera

@@ -15,7 +15,7 @@ Behold, the Cross of the Lord! * fly, ye ranks of the adversary! The Lion of the
 But us it behoveth to glory * in the Cross of our Lord Jesus Christ. (Alleluia.)
 By thy Cross' holy sign, * Jesus, guard this soul of mine from my ghostly enemy. (Alleluia.)
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 !Phil 2:5-7
 v. For let this mind be in you, which was also in Christ Jesus: Who being in the form of God, thought it not robbery to be equal with God: But emptied himself, taking the form of a servant, being made in the likeness of men, and in habit found as a man.
 $Deo gratias.
@@ -172,11 +172,7 @@ Christ openly triumphed, and His death trampled down death for ever. (Alleluia.)
 
 [Commemoratio 2]
 !Commemoratio Ss. Martyrum.
-Ant. Come forth, O ye daughters of Jerusalem, and behold the martyrs with the crowns where with the Lord crowned them in the day of His feasting and of His gladness. (Alleluia, Alleluia.)
-_
-V. Precious in the sight of the Lord. (Alleluia.)
-R. Is the death of His Saints. (Alleluia.)
-_
+@Commune/C2:Oratio proper
 $Oremus
 Grant, we beseech thee, O Almighty God, that we who do keep the birthday of thy holy servants Alexander, Eventius, Theodulus, and Juvenal, may by their prayers be delivered from all evils that presently hang over us.
 $Per Dominum.

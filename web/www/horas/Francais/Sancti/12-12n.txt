@@ -1,7 +1,7 @@
 [Rank]
 Bienheureuse Vierge Marie de Gauadalupe;;Duplex;;3;;vide C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Bienheureuse Vierge MArie de Gauadalupe;;Duplex;;3;;vide C11
 
 [Rule]
@@ -17,11 +17,6 @@ Les filles de Sion * l'ont vue florissante avec les fleurs des roses et l'ont pr
 Des fleurs ont fleuri * dans notre terre : nous vous louons, Sainte Mère de Dieu.;;121
 Chantez-lui un cantique nouveau : * annoncez sa gloire parmi les nations. ;;126
 Vous êtes la gloire de Jérusalem, * la joie d'Israël, l'honneur de votre peuple.;;147
-
-[Capitulum Vespera]
-!Prov 8:34-35
-v. Heureux l'homme qui m'écoute, qui veille chaque jour à mes portes, qui garde le seuil de ma demeure. Celui qui me trouve, trouve la vie et obtient le salut du Seigneur.
-$Deo gratias
 
 [Versum 1]
 V. Il n'a pas agi ainsi envers toutes les nations.
@@ -48,7 +43,9 @@ En l'an 1531, à Mexico, sur la colline de Tepeyac, la Vierge Marie se manifesta
 @:Ant Vespera :s/109/92/ s/112/99/ s/121/62/ s/126/210/ s/147/148/
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Prov 8:34-35
+v. Heureux l'homme qui m'écoute, qui veille chaque jour à mes portes, qui garde le seuil de ma demeure. Celui qui me trouve, trouve la vie et obtient le salut du Seigneur.
+$Deo gratias
 
 [Hymnus Laudes]
 !Ex S. Anselmo Ep. Cantuariensi

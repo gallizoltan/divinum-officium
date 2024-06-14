@@ -1,7 +1,7 @@
 [Rank]
 Dominica IV Adventus;;Semiduplex;;5.6
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Dominica IV Adventus;;Semiduplex;;6
 
 [Rule]
@@ -14,11 +14,6 @@ Vendrá * el deseado de todos los pueblos y se llenará de gloria la casa del Se
 Lo torcido * se enderece, lo escabroso se iguale. Ven, Señor, no tardes. Aleluya.
 El Señor viene; * salid a su encuentro aclamando; grande es su imperio, su reino no tendrá fin. Dios fuerte, Dominador, Príncipe de la paz. Aleluya, aleluya.
 Señor, tu palabra omnipotente * vendrá del trono real. Aleluya.
-
-[Capitulum Vespera]
-!1 Cor 4:1-2
-v. Hermanos: Que la gente sólo vea en vosotros servidores de Cristo y administradores de los misterios de Dios. Ahora, en un administrador lo que se busca es que sea fiel.
-$Deo gratias
 
 [Oratio]
 Despierta tu poder, Señor; ven a salvarnos y a ayudarnos; que la acción de tu gracia adelante la salvación que retardan nuestros pecados.
@@ -135,10 +130,9 @@ R. Cuya generación no reconoce fin.
 R. Cuya generación no reconoce fin. 
 
 [Capitulum Laudes]
-@:Capitulum Vespera
-
-[Capitulum Tertia]
-@:Capitulum Vespera
+!1 Cor 4:1-2
+v. Hermanos: Que la gente sólo vea en vosotros servidores de Cristo y administradores de los misterios de Dios. Ahora, en un administrador lo que se busca es que sea fiel.
+$Deo gratias
 
 [Capitulum Sexta]
 !1 Cor 4:3

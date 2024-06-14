@@ -7,16 +7,13 @@ In Visitatione B. Mariae Virginis;;Duplex II classis;;5;;ex C11
 [Rule]
 Gloria
 Credo
-Prefatio=Maria=Visitatióne;
+Prefatio=Maria=Nawiedzenie;
 
 [Comment]
 # 02 VII – Nawiedzenia N. M. P.
 ! 2 klasy
 ! Szaty białe
 Wkrótce po Zwiastowaniu Maryja nawiedziła swoją krewną Elżbietę, oczekującą narodzenia Jana Chrzciciela. Było to równocześnie pierwsze zbliżenie Chrystusa i Jego Przesłańca. Elżbieta powitała Maryję słowami, które powtarzamy w modlitwie Zdrowaś Maryjo, a Matka Boża wypowiedziała natchniony kantyk Magnificat.
-
-Wspomnienie świętych Męczenników Procesa i Martyniana.
-Według tradycji święci Proces i Martynian byli strażnikami więzienia Mamertyńskiego, w którym przebywał św. Piotr. Nawróceni i ochrzczeni przez św. Piotra zostali ścięci za wiarę w roku 67.
 
 [Introitus]
 !Seduliusz

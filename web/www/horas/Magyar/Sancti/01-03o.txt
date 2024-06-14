@@ -1,10 +1,10 @@
 [Rank]
 In Octava S. Joannis;;Simplex;;1.1;;vide Sancti/12-27
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Die Tertia Januarii;;Feria;;1;;vide Sancti/12-25
 
-[RankTrident]
+[Rank] (rubrica tridentina)
 In Octava S. Joannis;;Duplex;;3;;ex Sancti/12-27
 
 [Rule]
@@ -13,13 +13,6 @@ vide Sancti/12-27;
 Psalmi Dominica
 Antiphonas Horas
 Feria Te Deum
-
-[Capitulum Vespera]
-!Sir 15:1-2
-v. A ki Istent féli, jót cselekszik; és ki az igazságnak megtartója, eljut~
-hozzá. És eléje megyen, mint egy tisztes anya, és mint szöz menyasszony fogadja~
-öt.
-$Deo gratias
 
 [Lectio1]
 Olvasmány a Jelenések könyvéből

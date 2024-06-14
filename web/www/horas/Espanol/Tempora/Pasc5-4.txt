@@ -1,7 +1,7 @@
 [Rank]
 In Ascensione Domini;;Duplex I classis cum Octava Privilegiata III classis;;7
 
-[Rank1960]
+[Rank] (rubrica 1960)
 In Ascensione Domini;;Duplex I classis;;7
 
 [Rule]
@@ -12,18 +12,13 @@ Duplex
 Doxology=Asc
 Psalm5 vespera=116
 No Commemoratio
-			
+
 [Ant Vespera]
 Hombres de Galilea, * ¿qué hacéis ahí plantados mirando al cielo? Este Jesús que ha ascendido de aquí al cielo, vendrá así como lo habéis visto marcharse al cielo. Aleluya.
 Y miraban fijos * al cielo viéndolo irse, y decían: Aleluya.
 Levantando las manos, * los bendijo, y fue llevado al cielo. Aleluya.
 Ensalzad al Rey de reyes, * y cantad un himno a Dios. Aleluya.
 A la vista de ellos * se elevó y una nube se lo quitó de los ojos. Aleluya.
-
-[Capitulum Vespera]
-!Act 1:1-2
-v. En mi primer libro, querido Teófilo, escribí todo lo que Jesús hizo y enseñó desde el comienzo hasta el día en que, dando instrucciones por medio del Espíritu Santo a los Apóstoles que había escogido, ascendió a los cielos.
-$Deo gratias
 
 [Hymnus Vespera]
 {:H-Salutishumanæsator:} v. ¡Oh Salvador de los hombres!
@@ -111,7 +106,7 @@ por siglos interminables.
 Amén.
 
 [Ant Matutinum]
-Tu magnificencia,* oh Dios, se eleva sobre los cielos, aleluya.;;8
+Tu magnificencia, * oh Dios, se eleva sobre los cielos, aleluya.;;8
 El Señor está en su santo templo, * el Señor está en el cielo, aleluya.;;10
 Sale de una extremidad del cielo, * y lo recorre hasta el otro extremo, aleluya.;;18
 V. Ascendió Dios entre voces de júbilo, aleluya.
@@ -236,7 +231,9 @@ Después de reprenderlos por su dureza, oigamos la orden que les dio: “Id por 
 @:Ant Vespera
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Act 1:1-2
+v. En mi primer libro, querido Teófilo, escribí todo lo que Jesús hizo y enseñó desde el comienzo hasta el día en que, dando instrucciones por medio del Espíritu Santo a los Apóstoles que había escogido, ascendió a los cielos.
+$Deo gratias
 
 [Hymnus Laudes]
 @:Hymnus Vespera
@@ -263,9 +260,6 @@ $Per eumdem
 [Lectio Prima]
 !Act 1:11
 v. Hombres de Galilea, ¿qué hacéis ahí plantados mirando al cielo? Este Jesús que ha ascendido de aquí al cielo, vendrá así como lo habéis visto marcharse al cielo. Aleluya.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Responsory Tertia]
 R. breve. Dios asciende entre aclamaciones. * Aleluya, aleluya. 

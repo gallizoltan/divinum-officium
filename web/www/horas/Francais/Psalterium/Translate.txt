@@ -13,7 +13,7 @@
 [#Psalmi cum lectionibus]
 #Psaumes avec lectures
 
-[#Capitulum Responsory Versus]
+[#Capitulum Responsorium Versus]
 #Capitule et versets
 
 [#Capitulum Hymnus Versus]
@@ -22,8 +22,14 @@
 [#Canticum]
 #Cantique
 
+[#Canticum: Benedictus]
+#Cantique : Benedictus
+
+[#Canticum: Magnificat]
+#Cantique : Magnificat
+
 [#Canticum Nunc dimittis]
-#Cantique Nunc dimittis
+#Cantique : Nunc dimittis
 
 [#Preces Dominicales]
 #Prières dominicales
@@ -213,3 +219,9 @@ dimanche
 
 [Octava]
 octave
+
+[Adjutorium nostrum]
+Notre secours est
+
+[Pater secreto]
+Notre Père

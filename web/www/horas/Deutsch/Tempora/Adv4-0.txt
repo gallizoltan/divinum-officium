@@ -1,7 +1,7 @@
 [Rank]
 Vierter Sonntag im Advent;;Semiduplex;;5.6
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Vierter Sonntag im Advent;;Semiduplex;;6
 
 [Rule]
@@ -14,11 +14,6 @@ Seht, es wird kommen * der von den Völkern Ersehnte: und es wird mit Herrlichke
 Es soll das Verkrümmte werden * gerader Weg und das Unebene eben: komm, o Herr, und säume doch nicht, alleluja.
 Es kommt der Herr, * eilt ihm entgegen und ruft: O du einer großen Herrschaft Träger, dessen Reich kein Ende hat: Gott, Mächtiger, Beherrscher, Friedenskönig, alleluja, alleluja.
 Dein allmächtiges Wort, * o Herr, kommt vom Königsthron, alleluja.
-
-[Capitulum Vespera]
-!1 Kor 4,1-2
-v. Brüder, uns muss jedermann anerkennen als Beamte bei Christus und Verwalter der erhabenen Güter Gottes. Daraus folgt also: Es wird unter den Beamten nur gefordert, dass man sich als treu bewähre.
-$Deo gratias
 
 [Oratio]
 Lass, wir bitten dich, o Herr, wirksam werden deine Macht und komm; und werde uns mit deiner großen Kraft ein Helfer, auf dass unter dem Beistand deiner Huld das, was unsere Sünden aufhalten, die in deiner Milde erwiesene Nachsicht schneller gewähre.
@@ -135,12 +130,10 @@ R. Dessen Stammbaum unbegrenzt ist.
 &Gloria
 R. Dessen Stammbaum unbegrenzt ist.
 
-
 [Capitulum Laudes]
-@:Capitulum Vespera
-
-[Capitulum Tertia]
-@:Capitulum Vespera
+!1 Kor 4,1-2
+v. Brüder, uns muss jedermann anerkennen als Beamte bei Christus und Verwalter der erhabenen Güter Gottes. Daraus folgt also: Es wird unter den Beamten nur gefordert, dass man sich als treu bewähre.
+$Deo gratias
 
 [Capitulum Sexta]
 !1 Kor 4,3

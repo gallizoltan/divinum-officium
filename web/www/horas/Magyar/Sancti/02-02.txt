@@ -1,7 +1,7 @@
 [Rank]
 In Purificatione Beatae Máriae Virginis;;Duplex class;;5.1;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 In Purificatione Beatae Máriae Virginis;;Duplex class;;5;;ex C11
 
 [Rule]
@@ -9,13 +9,6 @@ ex C11;
 9 lectiones
 Doxology=Nat
 Festum Domini
-
-[Capitulum Vespera]
-!Mal 3.1
-v.Nézzétek, elküldöm hírnökömet, hogy elkészítse előttem az utat. Hamarosan~
-belép szentélyébe az Úr, akit kerestek, és a szövetség angyala, aki után~
-vágyakoztok. Lám, már jön is!
-$Deo gratias
 
 [Lectio1]
 Olvasmány Mózes második könyvéből
@@ -87,13 +80,6 @@ $Deo gratias
 !Mal 3:4
 v. Júda és Jeruzsálem áldozata tetszeni fog akkor az Úrnak, éppúgy, mint a~
 régmúlt időkben, mint az első években.
-
-[Capitulum Tertia]
-!Mal 3:1
-v. Nézzétek, elküldöm hírnökömet, hogy elkészítse előttem az utat. Hamarosan~
-belép szentélyébe az Úr, akit kerestek, és a szövetség angyala, aki után~
-vágyakoztok. Lám, már jön is!
-$Deo gratias
 
 [Capitulum Sexta]
 !Mal 3:1-2

@@ -1,8 +1,5 @@
 @Sancti/01-02
 
-[Rank]
-Die Secunda Januarii;;Feria;;1.2;;vide Sancti/01-01
-
 [Oratio]
 @Sancti/01-01
 
@@ -12,5 +9,5 @@ Die Secunda Januarii;;Feria;;1.2;;vide Sancti/01-01
 [LectioM4]
 @Sancti/01-02:Lectio3:s/10-// s/10.*12/12/s
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 @SanctiM/01-01

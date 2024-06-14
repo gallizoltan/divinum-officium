@@ -150,13 +150,10 @@ R. Precor cæléstem Regem, ut me doléntem nímium fáciat eos cérnere.
 Fac benígne * in bona voluntáte tua, ut ædificéntur, Dómine, muri Jerúsalem.
 Dóminus * mihi adjútor est, non timébo quid fáciat mihi homo.
 Adhǽsit ánima mea * post te, Deus meus.
-Vim virtútis suæ * oblítus est ignis: ut púeri tui liberaréntur illǽsi.
-Sol et luna * laudáte Deum: quia exaltátum est nomen ejus solíus.
-
-[Ant Laudes] (rubrica tridentina)
-Fac benígne * in bona voluntáte tua, ut ædificéntur, Dómine, muri Jerúsalem.
-Dóminus * mihi adjútor est, non timébo quid fáciat mihi homo.
-Deus, misereatur nostri, * et benedicat nobis.
+(sed rubrica Tridentina dicitur)
+Deus misereátur nostri, * et benedícat nos.
+(sed rubrica Monastica dicitur)
+Lábia mea * laudábunt te in vita mea, Deus meus.
 Vim virtútis suæ * oblítus est ignis: ut púeri tui liberaréntur illǽsi.
 Sol et luna * laudáte Deum: quia exaltátum est nomen ejus solíus.
 
@@ -174,9 +171,6 @@ Et cum ejecísset Jesus * dæmónium, locútus est mutus, et admirátæ sunt tur
 [Ant Tertia]
 Si in dígito Dei * eício dæmónia, profécto pervénit in vos regnum Dei.
 
-[Capitulum Tertia]
-@:Capitulum Laudes
-
 [Ant Sexta]
 Qui non cólligit mecum * dispérgit, et qui non est mecum, contra me est.
 
@@ -192,9 +186,6 @@ Cum immúndus spíritus * exíerit ab hómine, ámbulat per loca inaquósa, quæ
 !Eph 5:8-9
 v. Erátis enim aliquándo ténebræ, nunc autem lux in Dómino: ut fílii lucis ambuláte: fructus enim lucis est in omni bonitáte, et justítia, et veritáte.
 $Deo gratias
-
-[Capitulum Vespera]
-@:Capitulum Laudes
 
 [Ant 3]
 Extóllens vocem * quædam múlier de turba, dixit: Beátus venter qui te portávit, et úbera quæ suxísti. At Jesus ait illi: Quinímmo beáti, qui áudiunt verbum Dei, et custódiunt illud.

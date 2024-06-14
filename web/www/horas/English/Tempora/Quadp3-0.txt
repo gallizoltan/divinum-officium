@@ -1,14 +1,14 @@
 [Rank]
 Dominica in Quinquagesima;;Semiduplex;;5.6
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Dominica in Quinquagesima;;Semiduplex;;5
 
 [Rule]
 9 lectiones
 Invit2
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 !1 Cor 13:1
 v. Brothers: If I speak with the tongues of men, and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
 $Deo gratias

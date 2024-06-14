@@ -15,11 +15,6 @@ Esta es la Cruz del Señor. * Huid, enemigos. El león de la tribu de Judá, de 
 Nosotros hemos de gloriarnos * en la Cruz de nuestro Señor Jesucristo.
 Por la señal de la Cruz, * líbranos de nuestros enemigos, Dios nuestro.
 
-[Capitulum Vespera]
-!Flp 2:5-7
-v. Hermanos: Tened entre vosotros los sentimientos propios de una vida en Cristo Jesús. Él, a pesar de su condición divina, no hizo alarde de su categoría de Dios. Al contrario, se despojó de su rango y tomó la condición de esclavo, pasando por uno de tantos.
-$Deo gratias.
-
 [Hymnus Vespera]
 @Psalterium/Major Special:Hymnus Quad5 Vespera
 
@@ -172,7 +167,9 @@ Alejandro, romano, gobernó la Iglesia siendo emperador Adriano; convirtió a la
 @:Ant Vespera
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Flp 2:5-7
+v. Hermanos: Tened entre vosotros los sentimientos propios de una vida en Cristo Jesús. Él, a pesar de su condición divina, no hizo alarde de su categoría de Dios. Al contrario, se despojó de su rango y tomó la condición de esclavo, pasando por uno de tantos.
+$Deo gratias.
 
 [Hymnus Laudes]
 @Psalterium/Major Special:Hymnus Quad5 Laudes
@@ -186,11 +183,7 @@ Entre todos * los cedros tú eres el más excelso, porque de ti estuvo pendiente
 
 [Commemoratio 2]
 !Conmemoración de los Ss. Mártires
-Ant. Venid, hijas de Jerusalén, contemplad los mártires coronados por el Señor en el día de la fiesta y del júbilo. Aleluya, aleluya.
-_
-V. Es de gran precio ante los ojos del Señor. Aleluya.
-R. La muerte de los santos. Aleluya.
-_
+@Commune/C2:Oratio proper
 $Oremus
 v. Al celebrar la entrada en la gloria de los santos Alejandro, Evencio, Teódulo y Juvenal, te pedimos, Dios todopoderoso por su intercesión, vernos libres de toda adversidad. 
 $Per Dominum.
@@ -198,9 +191,6 @@ $Per Dominum.
 [Lectio Prima]
 !Flp 2:8-9
 v. Y así, actuando como un hombre cualquiera, se rebajó hasta someterse incluso a la muerte, y una muerte de Cruz. Por eso Dios lo levantó sobre todo, y le concedió el Nombre-sobre-todo-nombre.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Responsory Tertia]
 R.br. Este es el signo de la Cruz que aparecerá en el cielo, * Aleluya, aleluya.

@@ -1,7 +1,7 @@
 [Rank]
 Septem Dolorum Beatae Máriae Virgine;;Duplex majus;;4
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Septem Dolorum Beatae Máriae Virgine;;Commemoratio;;1
 
 [Rule]
@@ -9,11 +9,6 @@ Psalmi Dominica
 Antiphonas horas
 9 lectiones
 Gloria responsory
-
-[Capitulum Vespera]
-!Isa 53:1-2
-v. Ki hitt abban, amit hallottunk, és az Úr karja ki előtt nyilvánult meg? Úgy nőtt fel előttünk, mint a hajtás, és mint a gyökér a szomjas földből. Nem volt sem szép, sem ékes [hiszen láttuk], a külsejére nézve nem volt vonzó.
-$Deo gratias
 
 [Hymnus Vespera]
 Áll a fájdalomnak anyja,
@@ -174,11 +169,6 @@ $Per Dominum
 [Lectio Prima]
 !Isa 53:8
 v. Erőszakos ítélettel végeztek vele. Ugyan ki törődik egyáltalán ügyével? Igen, kitépték az élők földjéből, és bűneink miatt halállal sújtották.
-
-[Capitulum Tertia]
-!Isa 53:1-2
-v. Ki hitt abban, amit hallottunk, és az Úr karja ki előtt nyilvánult meg? Úgy nőtt fel előttünk, mint a hajtás, és mint a gyökér a szomjas földből. Nem volt sem szép, sem ékes [hiszen láttuk], a külsejére nézve nem volt vonzó.
-$Deo gratias
 
 [Capitulum Sexta]
 !Isa 53:5

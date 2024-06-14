@@ -8,11 +8,6 @@ Seht da, das Kreuz des Herrn, * weicht ihr feindlichen Mächte, Sieger ist der L
 Wir aber müssen unseren Ruhm suchen * im Kreuze unseres Herrn Jesus Christus, alleluja.
 Durch das Siegeszeichen des Kreuzes * mach uns frei von unseren Feinden, o unser Gott, alleluja.
 
-[Capitulum Vespera]
-!Phil 2,5-7
-v. Brüder, hegt dieselbe Gesinnung unter euch, die in Christus Jesus lebendig ist, der, da er mit der Wesenheit Gottes ausgestattet ist, sich nicht selbstsüchtig daran gefiel, dass er Gott gleich ist, sondern sich selbst als ein Nichts darstellte und die Lebensart eines Knechtes annahm, indem er den Menschen ähnlich wurde und in seinem ganzen Verhalten sich als Mensch zeigte.
-$Deo gratias.
-
 [Hymnus Vespera]
 @Psalterium/Major Special:Hymnus Quad5 Vespera
 
@@ -165,7 +160,9 @@ Alexander, ein Römer, leitete unter Kaiser Hadrian die Kirche und bekehrte eine
 @:Ant Vespera
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Phil 2,5-7
+v. Brüder, hegt dieselbe Gesinnung unter euch, die in Christus Jesus lebendig ist, der, da er mit der Wesenheit Gottes ausgestattet ist, sich nicht selbstsüchtig daran gefiel, dass er Gott gleich ist, sondern sich selbst als ein Nichts darstellte und die Lebensart eines Knechtes annahm, indem er den Menschen ähnlich wurde und in seinem ganzen Verhalten sich als Mensch zeigte.
+$Deo gratias.
 
 [Hymnus Laudes]
 @Psalterium/Major Special:Hymnus Quad5 Laudes
@@ -179,11 +176,7 @@ R. Denn durch dein Kreuz hast du die Welt erlöst. (Alleluja.)
 
 [Commemoratio 2]
 !Kommemoration der hl. Martyrer.
-Ant. O ihr Töchter Jerusalems, * kommt und seht die Zeugen für Gott mit ihren Kränzen, mit denen sie der Herr umkränzt hat am Tage ihrer Festlichkeit und ihrer Freude. (Alleluja, alleluja.)
-_
-V. Gar teuer wird's bei dir, Herr, eingeschätzt. (Alleluja.)
-R. Wenn deine Diener sterben. (Alleluja.)
-_
+@Commune/C2:Oratio proper
 $Oremus.
 Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass wir, die wir deiner heiligen Alexander, Eventius, Theodulus und Juvenalis Eingang zum Leben feiern, von allen uns drohenden Übeln auf ihre Fürbitten hin frei bleiben.
 $Per Dominum.
@@ -191,9 +184,6 @@ $Per Dominum.
 [Lectio Prima]
 !Phil 2,8-9
 v. Er hat sich selbst zu einem Unterwürfigen gemacht, indem er gehorsam geworden selbst da, wo er den Tod auf sich nehmen sollte, und zwar den Tod am Kreuze. Darum hat ihn Gott erhöht und ihm eine Stellung verliehen, die über alle Stellungen ist.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Responsory Tertia]
 R.br. Dieses Kreuz wird als Siegeszeichen am Himmel sein, * Alleluja, alleluja.

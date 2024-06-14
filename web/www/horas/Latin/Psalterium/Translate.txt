@@ -37,17 +37,8 @@ Dómine, exáudi
 [Confiteor]
 Confíteor
 
-[ConfiteorM]
-@:Confiteor
-
-[ConfiteorOP]
-@:Confiteor
-
 [Misereatur]
 Misereátur
-
-[MisereaturOP]
-@:Misereatur
 
 [Indulgentiam]
 Indulgéntiam
@@ -128,13 +119,16 @@ Commemoratio
 Antiphonæ
 
 [Psalmi, antiphonae]
-Psalmi, antiphonæ
+Psalmi & antiphonæ
 
 [Psalmi et antiphonae]
-Psalmi et antiphonæ
+Psalmi & antiphonæ
 
 [Psalmi Dominica, antiphonae]
-Psalmi Dominica, antiphonæ
+Psalmi Dominica & antiphonæ
+
+[#Canticum Nunc dimittis]
+#Canticum: Nunc dimittis
 
 [Evangelist]
 Matt|Marc|Luc|Joannes
@@ -162,3 +156,30 @@ Dominic[aæ]
 
 [Octava]
 Octav[aæ]
+
+[Psalmi graduales]
+Psalmi graduales
+
+[Septem psalmi paenitentiales]
+Septem psalmi pænitentiales
+
+[Litaniae]
+Litaniæ
+
+[Ordo Commendationis Animae]
+Ordo Commendationis Animæ
+
+[Benedictio mensae]
+Benedictio mensæ
+
+[Itinerarium]
+Itinerarium
+
+[Nocturn]
+Nocturn
+
+[Adjutorium nostrum]
+Adjutorium nostrum
+
+[Pater secreto]
+Pater noster

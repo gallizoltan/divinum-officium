@@ -1,7 +1,7 @@
 [Rank]
 Septem Dolorum Beatæ Mariæ Virginis;;Duplex 2nd class;;5.1;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Septem Dolorum Beatæ Mariæ Virginis;;Duplex 2nd class;;5;;ex C11
 
 [Rule]
@@ -16,11 +16,6 @@ Apartaos de mí, * no me consoléis en mi llanto amargo.;;112
 Sin figura * y sin belleza, lo vimos sin aspecto atrayente.;;121
 Desde la planta del pie * hasta la cabeza, no hay en Él nada sano.;;126
 Sostenedme con flores, * reanimadme con frutos, que desfallezco de amor.;;147
-
-[Capitulum Vespera]
-!Lam 2:13
-v. ¿A quién te compararé, hija de Jerusalén? ¿A quién te igualaré para consolarte, Virgen, hija de Sión? Tu quebranto es grande como el mar.
-$Deo gratias
 
 [Hymnus Vespera]
 v. Tienda pronto el crepúsculo sus sombras 
@@ -224,7 +219,9 @@ He aquí a tu Hijo; he aquí a tu Madre. Desde lo alto de la Cruz, Cristo hacía
 @:Ant Vespera:s/;;.*//g
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Lam 2:13
+v. ¿A quién te compararé, hija de Jerusalén? ¿A quién te igualaré para consolarte, Virgen, hija de Sión? Tu quebranto es grande como el mar.
+$Deo gratias
 
 [Hymnus Laudes]
 v. ¡Oh Dios de soberana clemencia!, 
@@ -261,9 +258,6 @@ $Qui vivis
 [Lectio Prima]
 !Lam 2:18
 v. Derrama lágrimas a torrentes día y noche, no te des reposo, no descansen tus ojos.
-
-[Capitulum Tertia]
-@:Capitulum Laudes
 
 [Responsory Tertia]
 R.br. Vosotros, * Los que pasáis por el camino. 

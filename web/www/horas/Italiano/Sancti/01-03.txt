@@ -1,10 +1,10 @@
 [Rank]
 In Octava S. Joannis;;Simplex;;1.1;;vide Sancti/12-27
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Die Tertia Januarii;;Feria;;1.2;;vide Sancti/01-01
 
-[RankTrident]
+[Rank] (rubrica tridentina)
 In Octava S. Joannis;;Duplex;;3;;ex Sancti/12-27
 
 [Rule]
@@ -13,13 +13,10 @@ Feria Te Deum
 Comkey=70
 9 lectiones
 
-[Capitulum Vespera] (rubrica divino aut rubrica tridentina aut rubrica monastica)
+[Capitulum Laudes] (rubrica divino aut rubrica monastica)
 !Sir 15:1-2
 v. Chi teme Dio, farà il bene: e chi osserva la giustizia con esattezza, possederà la sapienza, ed essa gli andrà incontro qual madre veneranda.
 $Deo gratias
-
-[Capitulum Vespera](rubrica 1960)
-@Sancti/01-01:Capitulum Vespera
 
 [Lectio1]
 Dalla Lettera ai Romani

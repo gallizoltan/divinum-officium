@@ -1,7 +1,7 @@
 [Rank]
 Przemienienie Pańskie;;Duplex II classis;;5.1;;
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Przemienienie Pańskie;;Duplex II classis;;5;;
 
 [Ant Vespera]
@@ -11,7 +11,7 @@ A oto * się im ukazali Mojżesz i Eljasz z nim rozmawiający.
 A odpowiadając Piotr, * rzekł do Jezusa: Panie dobrze nam jest tu być.
 Gdy on jeszcze mówił, * oto obłok jasny okrył ich.
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 !Flp 3:20-21
 v. Zbawiciela oczekiwamy, Pana naszego Jezusa Chrystusa, który przemieni ciało podłości naszéj przypodobane ciału jasności swojéj.
 $Deo gratias
@@ -232,7 +232,7 @@ R. I postanowiłeś go nad dziełami rąk twoich, alleluja.
 
 [Capitulum Sexta]
 !2 Kor 3:18
-v. A my wszyscy odkrytem obliczem na chwałę Pańską w zwierciedle patrząc, w tóż wyobrażenie przemienieni bywamy z jasności w jasność, jako od Ducha Pańskiego.
+v. A my wszyscy odkrytem obliczem na chwałę Pańską w zwierciedle patrząc, w toż wyobrażenie przemienieni bywamy z jasności w jasność, jako od Ducha Pańskiego.
 $Deo gratias
 
 [Responsory Sexta]

@@ -3,14 +3,15 @@ S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C4b
 (sed rubrica tridentina)
 S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
 
-[RankNewcal]
-S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris;;Duplex;;3.1;;vide C4b
+[Rank] (rubrica innovata)
+S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris;;Duplex;;3.91;;vide C4b
 
 [Rule]
 vide C4b;
 (sed rubrica tridentina)
 vide C4a;
 Gloria
+CredoDA
 
 [Oratio]
 Deus, qui ánimæ fámuli tui Gregórii ætérnæ beatitúdinis prǽmia contulísti: concéde propítius; ut, qui peccatórum nostrórum póndere prémimur, ejus apud te précibus sublevémur.

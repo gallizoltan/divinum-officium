@@ -1,7 +1,7 @@
 [Rank]
 Maternitatis Beatæ Mariæ Virginis;;Duplex 2 classis;;5.1;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Maternitatis Beatæ Mariæ Virginis;;Duplex 2 classis;;5;;ex C11
 
 [Rule]
@@ -17,11 +17,6 @@ Has dado a luz * al que te creó y permaneces Virgen eternamente.;;112
 En mi pequeñez * he sido grata al Señor, y he dado a luz al Dios hecho hombre.;;121
 Bendita eres, * hija del Señor, porque de ti hemos recibido el fruto de la vida.;;126
 Las hijas de Sión * la vieron y la felicitaron; y las reinas la alabaron.;;147
-
-[Capitulum Vespera]
-!Sir 24:12-13
-v. El que me creó descansó en mi seno y me dijo: Habita en Jacob, echa raíces entre mis elegidos.
-$Deo gratias
 
 [Versum 1]
 V. Bendita Tú entre las mujeres.
@@ -181,7 +176,9 @@ Dichosa Tú, oh María, en quien no sufrieron mengua la humildad ni la virginida
 @:Ant Vespera:s/;;.*//gm
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Sir 24:12-13
+v. El que me creó descansó en mi seno y me dijo: Habita en Jacob, echa raíces entre mis elegidos.
+$Deo gratias
 
 [Hymnus Laudes]
 v. Suplicantes te rogamos todos, 
@@ -207,9 +204,6 @@ R. Una Virgen ha dado a luz al Salvador. Te alabamos, Dios nuestro.
 
 [Ant 2]
 @Commune/C11:Ant 1:s/fiesta/admirable Maternidad/
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Versum 3]
 @:Versum 1

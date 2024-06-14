@@ -2,7 +2,8 @@
 # the sub is called from htmlhead
 sub horasjs {
 
-  my($output);
+  my ($output);
+
   # $caller in principle might not be defined.
   my $caller_flag = $caller || 0;
 
@@ -52,6 +53,13 @@ function hset(p, d) {
   document.forms[0].command.value = "pray" + p;
   document.forms[0].action = "$officium";
   document.forms[0].target = "_self"
+  document.forms[0].submit();
+}
+
+// call appendix
+function appendix(a) {
+  document.forms[0].command.value = "Appendix " + a;
+  console.log(document.forms[0].command.value);
   document.forms[0].submit();
 }
 
@@ -136,6 +144,9 @@ function callbrevi(date) {
 //calls missa
 function callmissa() {
   document.forms[0].action = "../missa/missa.pl";
+  if (document.forms[0].command.value != "") {
+    document.forms[0].command.value = "praySanctaMissa"
+  }
   document.forms[0].target = "_self"
   document.forms[0].submit();
 }
@@ -169,7 +180,7 @@ function prevnext(ch) {
 }
 PrintTag
 
-  $output
+  $output;
 }
 
 1;

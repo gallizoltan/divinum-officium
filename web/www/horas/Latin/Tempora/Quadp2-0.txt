@@ -12,11 +12,6 @@ Dominica in Sexagesima;;Semiduplex;;5
 Symbolum Athanasium(rubrica tridentina)
 Invit2
 
-[Capitulum Vespera]
-!2 Cor 11:19-20
-v. Fratres: Libénter suffértis insipiéntes, cum sitis ipsi sapiéntes: sustinétis enim si quis vos in servitútem rédigit, si quis dévorat, si quis áccipit, si quis extóllitur, si quis in fáciem vos cædit.
-$Deo gratias
-
 [Ant 1]
 Dixit Dóminus * ad Noë: Finis univérsæ carnis venit coram me: fac tibi arcam de lignis lævigátis, ut salvétur univérsum semen in ea.
 
@@ -100,7 +95,7 @@ R. Et recordábor fœ́deris mei, quod pépigi tecum.
 Ad condemnatiónem autem ceterórum, et ad expressiónem pietátis divínæ, dícitur Noë apud Deum grátiam invenísse. Simul osténditur, quod hóminem justum non obúmbret aliórum offénsio, quando ipse ad totíus géneris reservátur seminárium. Qui non generatiónis nobilitáte, sed justítiæ et perfectiónis mérito laudátur. Probáti enim viri genus, virtútis prosápia est: quia sicut hóminum genus hómines, ita animárum genus virtútes sunt. Etenim famíliæ hóminum splendóre géneris nobilitántur, animárum autem clarificátur grátia splendóre virtútis.
 
 [Responsory6]
-R. Per memetípsum jurávi, dicit Dóminus, non adíciam ultra aquas dilúvii super terram: pacti mei recordábor
+R. Per memetípsum jurávi, dicit Dóminus, non adíciam ultra aquas dilúvii super terram: pacti mei recordábor,
 * Ut non perdam aquis dilúvii omnem carnem.
 V. Arcum meum ponam in núbibus, et erit signum fœ́deris inter me et inter terram.
 R. Ut non perdam aquis dilúvii omnem carnem.
@@ -152,7 +147,9 @@ In excélsis, * laudáte Deum.
 In týmpano et choro, * in chordis et órgano, laudáte Deum.
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!2 Cor 11:19-20
+v. Fratres: Libénter suffértis insipiéntes, cum sitis ipsi sapiéntes: sustinétis enim si quis vos in servitútem rédigit, si quis dévorat, si quis áccipit, si quis extóllitur, si quis in fáciem vos cædit.
+$Deo gratias
 
 [Ant 2]
 Cum turba * plúrima convenírent ad Jesum, et de civitátibus properárent ad eum, dixit per similitúdinem: Exiit qui séminat, semináre semen suum.
@@ -165,9 +162,6 @@ Semen cécidit * in terram bonam, et áttulit fructum in patiéntia.
 
 [Ant Tertia]
 Qui verbum Dei * rétinent corde perfécto et óptimo, fructum áfferunt in patiéntia.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Ant Sexta]
 Semen cécidit * in terram bonam, et áttulit fructum, áliud centésimum, et áliud sexagésimum.

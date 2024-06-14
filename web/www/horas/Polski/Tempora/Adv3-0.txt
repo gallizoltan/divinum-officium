@@ -1,7 +1,7 @@
 [Rank]
 III Niedziela Adwentu;;Semiduplex;;5.6
 
-[Rank1960]
+[Rank] (rubrica 1960)
 III Niedziela Adwentu;;Semiduplex;;6
 
 [Rule]
@@ -15,7 +15,7 @@ Położę w Sionie * zbawienie, a w Jeruzalem chwałę moją, alleluja.
 Każda góra i pagórek * będzie poniżony: i będą krzywe prostemi, i ostre drogami gładkiemi: przyjdź, Pamie, a nie omieszkaj, alleluja.
 Żyjmy sprawiedliwie * i pobożnie, oczekując błogosławionej nadziei i przyjścia Pana.
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 !Flp 4:4-5
 v. Bracia: Weselcie się zawsze w Panu: powtóre mówię weselcie się: skromność wasza niech będzie wiadoma wszystkim ludziom: Pan bowiem blisko jest.
 $Deo gratias
@@ -37,6 +37,12 @@ De Isaia Propheta
 5 Bo zniży mieszkające na wysokości: miasto wywyższone poniży, poniży je aż na ziemię, ściągnie je aż do prochu.
 6 Podepcze je noga, nogi ubogiego, kroki nędzników.
 
+[Responsory1]
+R. Oto ukaże się Pan nad białym obłokiem
+* A z nim świętych tysiące: a ma na szacie i na biedrze swojéj napisano: † Król nad królmi i Pan nad pany.
+V. Ukaże się na końcu a nie skłama, jeźliby odwłaczał, oczekawaj go; bo przychodzący przyjdzie.
+R. A z nim świętych tysiące: a ma na szacie i na biedrze swojéj napisano: † Król nad królmi i Pan nad pany.
+
 [Lectio2]
 !Iz 26:7-10
 7 Ścieżka sprawiedliwego prosta jest, prosta droga sprawiedliwego na chodzenie.
@@ -50,6 +56,12 @@ De Isaia Propheta
 12 Panie, dasz nam pokój; bo wszystkie uczynki nasze sprawiłeś nam.
 13 Panie, Boże nasz, opanowali nas panowie oprócz ciebie: tylko w tobie niechaj pamiętamy na imię twoje.
 14 Umierający niech nie żyją, olbrzymowie niech nie powstają: dlatego nawiedziłeś i zniszczyłeś je i skruszyłeś wszystkę pamiątkę ich.
+
+[Responsory6]
+R. Znidzie Pan jako deszcz na runo:
+* Wznidzie za dni jego sprawiedliwość, i obfitość pokoju.
+V. I będą mu się kłaniać wszyscy królowie, wszyscy narodowie będą mu służyć.
+R. Wznidzie za dni jego sprawiedliwość, i obfitość pokoju.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Jana

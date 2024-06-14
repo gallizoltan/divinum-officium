@@ -34,6 +34,7 @@ local %_dialog;
 # of this split is collected onto the returned array.
 sub getdialog {
   my ($name) = @_;
+
   if (!$_dialog{'loaded'}) {
     $datafolder =~ /(missa|horas)$/;
     %_dialog = %{setupstring('', "$1.dialog")};
@@ -41,44 +42,50 @@ sub getdialog {
     $_dialog{'loaded'} = 1;
   }
   chomp($_dialog{$name});
+
   if (wantarray) {
     return split(',', $_dialog{$name});
-  } else { 
+  } else {
     return $_dialog{$name};
   }
 }
 
 sub gethoras {
-  my($C9f) = @_;
+  my ($C9f) = @_;
   my @horas = getdialog('horas');
-  @horas = @horas[0,1,6] if ($C9f);
+  @horas = @horas[0, 1, 6] if ($C9f);
   $horas[-1] =~ s/\s*$//;
   @horas;
 }
 
 sub set_runtime_options {
-  my($name) = @_;
+  my ($name) = @_;
   my @parameters = split(/;;\r?\n/, getdialog($name));
+
   # pop(@parameters);
   my @setupt = split(/;;/, getsetup($name));
+
   # pop(@setupt);
   my $p = undef;
   my $i = 1;
+
   foreach (@parameters) {
-    my($parname, $parvalue, $parmode, $parpar, $parpos, $parfunc, $parhelp) = split('~>');
+    my ($parname, $parvalue, $parmode, $parpar, $parpos, $parfunc, $parhelp) = split('~>');
+
     if ($parpos !~ /^\d+$/) {
       $parpos = $i;
       $i++;
     }
-    $parvalue = substr($parvalue,1);
-    if ($p = strictparam($parvalue)) { 
+    $parvalue = substr($parvalue, 1);
+
+    if ($p = strictparam($parvalue)) {
       setsetupvalue($name, $parpos - 1, $p);
     } else {
-      $p = substr($setupt[$parpos - 1], index($setupt[$parpos - 1], '=') + 2, -1)
+      $p = substr($setupt[$parpos - 1], index($setupt[$parpos - 1], '=') + 2, -1);
     }
     $$parvalue = $p;
   }
-  $blackfont =~ s/black//; # can't use black in contrast mode
+  $blackfont =~ s/black//;    # can't use black in contrast mode
   $smallblack =~ s/black//;
 }
 
@@ -112,10 +119,13 @@ sub get_tempus_id {
 
 # Returns the name of the day for use as a subject in conditionals.
 sub get_dayname_for_condition {
-  our ($day, $month, $day_of_week);
+  our ($day, $month, $day_of_week, $winner);
   our $hora;
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
   return 'Epiphaniæ' if ($month == 1 && ($day == 6 || ($day == 5 && $vesp_or_comp)));
+  return 'in Cœna Domini' if $winner =~ /Quad6-4/;
+  return 'in Parasceve' if $winner =~ /Quad6-5/;
+  return 'Sabbato Sancto' if $winner =~ /Quad6-6/;
   return '';
 }
 our %subjects = (
@@ -129,8 +139,8 @@ our %subjects = (
 our %predicates = (
   tridentina => sub { shift =~ /Trident/ },
   monastica => sub { shift =~ /Monastic/ },
-  innovata => sub { shift =~ /NewCal/i },
-  innovatis => sub { shift =~ /NewCal/i },
+  innovata => sub { shift =~ /2020 USA|NewCal/i },
+  innovatis => sub { shift =~ /2020 USA|NewCal/i },
   paschali => sub { shift =~ /Paschæ|Ascensionis|Octava Pentecostes/i },
   'post septuagesimam' => sub { shift =~ /Septua|Quadra|Passio/i },
   prima => sub { shift == 1 },
@@ -192,7 +202,7 @@ our %setupstring_caches_by_version;
 use constant {
   RESOLVE_NONE => 0,
   RESOLVE_WHOLEFILE => 1,
-  RESOLVE_ALL => 2
+  RESOLVE_ALL => 2,
 };
 
 #*** setupstring($lang, $fname, %params)
@@ -200,10 +210,15 @@ use constant {
 # the cache. Inclusions are performed according to the value of
 # $params{'resolve@'}. If omitted, the default is RESOLVE_ALL.
 sub setupstring($$%) {
+
   my ($lang, $fname, %params) = @_;
 
   my $basedir = our $datafolder;
   my $fullpath = "$basedir/$lang/$fname";
+
+  if (!-e "$basedir/Latin/$fname" && $fname =~ /(Sancti|Tempora)M(.*)/i && -e "$basedir/Latin/$1$2") {
+    $fullpath = "$basedir/$lang/$1$2";    # Allow for Fallback to Roman folder if fallback is used in Latin
+  }
   our ($lang1, $lang2, $missa);
   my $inclusionregex = qr/^\s*\@
     ([^\n:]+)?                    # Filename (self-reference if omitted).
@@ -246,18 +261,28 @@ sub setupstring($$%) {
 
     if (%$new_sections) {
 
+      # Fill in missing "pre-Urban hymn translations to avoid being overriden by Latin
+      foreach my $seckey (keys(%{$new_sections})) {
+        if ($seckey =~ /Hymnus(.*?) (.*)/) {
+          unless (exists(${$new_sections}{"Hymnus$1M $2"})) {
+            ${$new_sections}{"Hymnus$1M $2"} = ${$new_sections}{$seckey};
+          }
+        }
+      }
+
       # Fill in the missing things from the layer below.
       ${$new_sections}{'__preamble'} .= "\n${$base_sections}{'__preamble'}";
       ${$new_sections}{$_} ||= ${$base_sections}{$_} foreach (keys(%{$base_sections}));
-			
-			# Ensure consistency in ranking of Offices by always defaulting to Latin even if there is a Translation itself
-			my @baserank = split(';;', ${$base_sections}{Rank});
-			if(@baserank) {
-				my @newrank = split(';;', ${$new_sections}{Rank});
-				$baserank[0] = $newrank[0];
-				${$new_sections}{Rank} = join(';;', @baserank);
-			}
-			
+
+      # Ensure consistency in ranking of Offices by always defaulting to Latin even if there is a Translation itself
+      my @baserank = split(';;', ${$base_sections}{Rank});
+
+      if (@baserank) {
+        my @newrank = split(';;', ${$new_sections}{Rank});
+        $baserank[0] = $newrank[0];
+        ${$new_sections}{Rank} = join(';;', @baserank);
+      }
+
     } else {
       $new_sections = $base_sections;
     }
@@ -276,7 +301,8 @@ sub setupstring($$%) {
     while ($sections{'__preamble'} =~ /$inclusionregex/gc) {
       my $incl_fname .= "$1.txt";
       if ($fullpath =~ /$incl_fname/) { warn "Cyclic dependency in whole-file inclusion: $fullpath"; last; }
-      my $incl_sections = setupstring($lang, $incl_fname, 'resolve@' => RESOLVE_NONE);
+      my $incl_sections =
+        setupstring($lang, $incl_fname, 'resolve@' => RESOLVE_WHOLEFILE); # ensure daisy-chain (especially for Monastic)
       $sections{$_} ||= ${$incl_sections}{$_} foreach (keys %{$incl_sections});
     }
     delete $sections{'__preamble'};
@@ -362,8 +388,7 @@ sub setupstring_parse_file($$$) {
   foreach my $key (keys %sections) {
 
     # The extra empty string gives us a newline at the end.
-    $sections{$key} = join "\n",
-      (process_conditional_lines(@{$sections{$key}}), '');
+    $sections{$key} = join "\n", (process_conditional_lines(@{$sections{$key}}), '');
   }
   return \%sections;
 }
@@ -472,7 +497,7 @@ sub process_conditional_lines {
       do {
         pop @conditional_stack;
         } while (@conditional_stack
-        && ${$conditional_stack[-1]}[0] == COND_DUMMY_FRAME);
+          && ${$conditional_stack[-1]}[0] == COND_DUMMY_FRAME);
 
       # If we've emptied the conditional stack, push an always-true,
       # unbounded frame to allow uniformity in testing.

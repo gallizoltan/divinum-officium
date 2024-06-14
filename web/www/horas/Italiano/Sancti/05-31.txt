@@ -1,7 +1,7 @@
 [Rank]
 Beatae Mariae Virginis Reginae;;Duplex II classis;;5.1;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Beatae Mariae Virginis Reginae;;Duplex II classis;;5;;ex C11
 
 [RankNewcal]
@@ -15,7 +15,7 @@ Doxology=Nat
 Antiphonas horas
 Psalmi Dominica
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 !Sir 24:5; 24:7
 v. Io sono uscita dalla bocca dell'Altissimo, primogenita di tutta la creazione. Nel più alto dei cieli ho la mia dimora e il mio trono sulla colonna di nube.
 $Deo gratias

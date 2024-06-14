@@ -1,7 +1,7 @@
 [Rank]
 Dominica III Adventus;;Semiduplex;;5.6
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Dominica III Adventus;;Semiduplex;;6
 
 [Rule]
@@ -13,12 +13,7 @@ Il Signore verrà, * et non tarderà, ed illuminerà ciò ch'è nascosto nelle t
 Gerusalemme, esulta grandemente * perché il Salvatore verrà a te, alleluia.
 Manifesterò in Sion * la salvezza, ed in Gerusalemme la mia gloria, alleluia.
 I monti e tutti i colli * saranno abbassati: e le strade storte diventeranno diritte, e piane le malagevoli: vieni, Signore, e non voler più tardare, alleluia.
-Viviamo con giustizia e pietà,* aspettando la beata speranza (ch'è) la venuta del Signore.
-
-[Capitulum Vespera]
-!Phil 4:4-5
-v. Fratelli: State sempre allegri nel Signore: lo ripeto, state allegri. La vostra modestia sia palese a tutti gli uomini: ché il Signore è vicino.
-$Deo gratias
+Viviamo con giustizia e pietà, * aspettando la beata speranza (ch'è) la venuta del Signore.
 
 [Ant 1]
 Prima di me * non fu formato alcun Dio, né vi sarà dopo di me: perciò dinanzi a me si piegherà ogni ginocchio, e mi confesserà ogni lingua.
@@ -142,7 +137,7 @@ Il Signore verrà, * et non tarderà, ed illuminerà ciò ch'è nascosto nelle t
 Gerusalemme, esulta grandemente * perché il Salvatore verrà a te, alleluia.
 Manifesterò in Sion * la salvezza, ed in Gerusalemme la mia gloria, alleluia.
 I monti e tutti i colli * saranno abbassati: e le strade storte diventeranno diritte, e piane le malagevoli: vieni, Signore, e non voler più tardare, alleluia.
-Viviamo con giustizia e pietà,* aspettando la beata speranza (ch'è) la venuta del Signore.
+Viviamo con giustizia e pietà, * aspettando la beata speranza (ch'è) la venuta del Signore.
 
 [Capitulum Laudes]
 !Phil 4:4-5
@@ -151,11 +146,6 @@ $Deo gratias
 
 [Ant 2]
 Sul trono * di David e sul regno di lui egli sederà in eterno, alleluia.
-
-[Capitulum Tertia]
-!Phil 4:4-5
-v. Fratelli: State sempre allegri nel Signore: lo ripeto, state allegri. La vostra modestia sia palese a tutti gli uomini: ché il Signore è vicino.
-$Deo gratias
 
 [Capitulum Sexta]
 !Phil 4:6

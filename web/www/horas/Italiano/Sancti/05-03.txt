@@ -11,11 +11,6 @@ Psalm5 Vespera=116
 [Ant Vespera]
 @:Ant Laudes
 
-[Capitulum Vespera]
-!Fil 2:5-7
-v. Fratelli: Dovete avere dentro di voi gli stessi sentimenti che aveva Gesù Cristo: il quale, sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio; ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, e dandosi esteriormente a riconoscere per uomo.
-$Deo gratias.
-
 [Hymnus Vespera]
 @Psalterium/Major Special:Hymnus Quad5 Vespera
 
@@ -188,11 +183,7 @@ R. Poiché colla tua Croce hai redento il mondo. (Alleluia.)
 
 [Commemoratio 2]
 !Commemorazione dei santi Alessandro I Papa, Eventino e Teodulo Martiri
-Ant. Figlie di Gerusalemme, * venite e vedete i martiri con le corone con cui il Signore li ha incoronati, nel giorno della solennità e della gioia. (Alleluia, alleluia.)
-_
-V. Preziosa è agli occhi del Signore. (Alleluia.)
-R. La morte dei suoi santi. (Alleluia.)
-_
+@Commune/C2:Oratio proper
 $Oremus.
 Concedi, Dio onnipotente, che come celebriamo il natale dei tuoi santi Alessandro, Evenzio, Teodulo e Giovenale; così siamo liberati, per loro intercessione, da tutti i mali che ci minacciano. 
 $Per Dominum.
@@ -200,11 +191,6 @@ $Per Dominum.
 [Lectio Prima]
 !Fil 2:8-9
 v. Egli abbassò se stesso, facendosi obbediente sino a morire, e morire in Croce. Per questo, anche Dio lo ha esaltato, e gli ha dato un nome ch'è al di sopra di ogni nome.
-
-[Capitulum Tertia]
-!Fil 2:5-7.
-v. Fratelli: Dovete avere dentro di voi gli stessi sentimenti che aveva Gesù Cristo: il quale, sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio; ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, e dandosi esteriormente a riconoscere per uomo.
-$Deo gratias
 
 [Responsory Tertia]
 R.br. Questo segno della Croce apparirà in cielo, * Alleluia, alleluia.

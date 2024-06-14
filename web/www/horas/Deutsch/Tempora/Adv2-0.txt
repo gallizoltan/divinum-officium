@@ -1,7 +1,7 @@
 [Rank]
 Zweiter Sonntag im Advent;;Semiduplex;;5.6
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Zweiter Sonntag im Advent;;Semiduplex;;6
 
 [Rule]
@@ -14,11 +14,6 @@ Eine befestigte Burg * haben wir, o Sion, der Heiland steht in ihr als Mauer und
 Gewiss, sichtbar wird werden * der Herr und uns nicht täuschen, wenn er warten lässt, verlass dich auf ihn, da er kommen und nicht ausbleiben wird, alleluia.
 Die Berge und die Hügel * sollen vor Gott Lob singen, und alle Bäume in den Wäldern sollen Beifallsgrüße bringen, denn es wird der Gebieter und Herr in das ewige Reich eingehen, alleluia, alleluia.
 Hört es, unser Herr * wird mit Macht kommen und außerordentliche Beseligung seinen Dienern bringen, alleluia.
-
-[Capitulum Vespera]
-!Röm 15,4
-v. Brüder, alles, was in der Schrift steht, ist zu unserer Belehrung hineingeschrieben, damit wir auf Grund des in den Schriften empfohlenen geduldigen Wartens und auf Grund der dort enthaltenen trostvollen Verheißungen Zuversicht haben.
-$Deo gratias
 
 [Ant 1]
 Komm, o Herr, * und sei bei uns als Freund und Segensbringer, dass wir in deiner Gegenwart mit einem richtig ausgestatteten Herzen uns freuen.
@@ -148,11 +143,6 @@ $Deo gratias
 
 [Ant 2]
 Johannes aber sandte, * als er im Gefängnis von den Werken Christi hörte, zwei von seinen Jüngern zu ihm und ließ ihm sagen: Bist du derjenige, der da kommen soll, oder sollen wir auf einen anderen warten?
-
-[Capitulum Tertia]
-!Röm 15,4
-v. Brüder, alles, was in der Schrift steht, ist zu unserer Belehrung hineingeschrieben, damit wir auf Grund des in den Schriften empfohlenen geduldigen Wartens und auf Grund der dort enthaltenen trostvollen Verheißungen Zuversicht haben.
-$Deo gratias
 
 [Capitulum Sexta]
 !Röm 15,5-6

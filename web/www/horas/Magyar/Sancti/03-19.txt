@@ -1,7 +1,7 @@
 [Rank]
 S. Joseph sponsi B.M.V. confessoris;;Duplex I classis;;6.1;;
 
-[Rank1570]
+[Rank] (rubrica 1570)
 S. Joseph sponsi B.M.V. confessoris;;Duplex;;3;;
 
 [Rule]
@@ -10,11 +10,6 @@ Psalmi Dominica
 Antiphonas horas
 9 lectiones;
 Psalm5 Vespera=116
-
-[Capitulum Vespera]
-!Prov 28:20; 27:18
-v. A szilárd férfiú bőséges áldást kap, tisztesség éri azt, aki vigyáz urára. 
-$Deo gratias
 
 [Lectio1]
 Olvasmány Mózes első könyvéből
@@ -62,11 +57,6 @@ $Deo gratias
 [Lectio Prima]
 !Wis 10:10
 v. Vezette az igazat egyenes utakon, megmutatta neki Isten országát és szent dolgokkal ismertette meg, nehéz munkájában jóléthez segítette, és fáradozásait bőséggel jutalmazta. 
-
-[Capitulum Tertia]
-!Prov 28:20; 27:18
-v. A szilárd férfiú bőséges áldást kap, tisztesség éri azt, aki vigyáz urára. 
-$Deo gratias
 
 [Capitulum Sexta]
 !Sir 45:1; 45:4

@@ -1,5 +1,5 @@
 [Name]
-Commune d'un Martyr
+Commun d'un Martyr
 
 [Rule]
 Psalmi Dominica
@@ -13,11 +13,6 @@ Celui qui me suit, * ne marche point dans les ténèbres ; mais il aura la lumi�
 Si quelqu'un veut être Mon serviteur, * qu'il Me suive, et là où Je suis, qu'il y soit aussi.
 Si quelqu'un Me sert, * Mon Père qui est dans les cieux l'honorera, dit le Seigneur.
 Je veux, Mon Père, * que là où Je suis, Mon serviteur y soit aussi.
-
-[Capitulum Vespera]
-!Jac 1:12
-v. Heureux l'homme qui supporte l'épreuve ! Car l'homme éprouvé recevra la couronne de vie, que Dieu a promise à ceux qui l'aiment.
-$Deo gratias
 
 [Hymnus Vespera]
 {:H-Deustuorummilitum:}v. Dieu, partage, couronne
@@ -55,7 +50,6 @@ Ce Saint * a combattu jusqu'à la mort pour la loi de son Dieu et n'a pas craint
 
 [Invit]
 Le Seigneur est le Roi des Martyrs, * Venez , adorons-le.
-
 
 [Hymnus Matutinum]
 @Commune/C2:Hymnus Vespera
@@ -202,7 +196,9 @@ Mais il est bon d'examiner en ce lieu comment il nous est commandé d'avoir de l
 @:Ant Vespera
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Jac 1:12
+v. Heureux l'homme qui supporte l'épreuve ! Car l'homme éprouvé recevra la couronne de vie, que Dieu a promise à ceux qui l'aiment.
+$Deo gratias
 
 [Hymnus Laudes]
 {:H-Invictemartyrunicum:}v. Invincible Martyr,
@@ -254,9 +250,6 @@ $Per Dominum
 !Sir 39:6
 v. Le juste met son cœur à aller dès le matin auprès du Seigneur qui l'a fait et il prie en présence du Très-Haut.
 
-[Capitulum Tertia]
-@:Capitulum Vespera
-
 [Responsory Tertia]
 R.br. De gloire et d'honneur * Seigneur, Vous l'avez couronné.
 R. De gloire et d'honneur * Seigneur, Vous l'avez couronné.
@@ -290,12 +283,12 @@ v. Le juste met son cœur à aller dès le matin auprès du Seigneur qui l'a fai
 $Deo gratias
 
 [Responsory Nona]
-R.br. Sa gloire esst grande, * Grâce à Votre secours.
-R. Sa gloire esst grande, * Grâce à Votre secours.
+R.br. Sa gloire est grande, * Grâce à Votre secours.
+R. Sa gloire est grande, * Grâce à Votre secours.
 V. Vous l'avez revêtu de splendeur et de magnificence.
 R. Grâce à Votre secours.
 &Gloria
-R. Sa gloire esst grande, * Grâce à Votre secours.
+R. Sa gloire est grande, * Grâce à Votre secours.
 _
 V. Le juste fleurira comme le palmier.
 R. Il croîtra comme le cèdre du Liban.

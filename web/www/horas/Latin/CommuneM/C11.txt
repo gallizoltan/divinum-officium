@@ -1,7 +1,10 @@
 @Commune/C11
 
-[Capitulum Vespera]
-@CommuneM/C10:Capitulum Vespera
+[Capitulum Laudes]
+@CommuneM/C10
+
+[Responsory Vespera]
+@CommuneM/C10
 
 [AntMatutinumM]
 Favus distíllans * lábia tua, Sponsa, mel et lac sub lingua tua: † et odor vestimentórum tuórum sicut odor thuris.;;47
@@ -98,18 +101,25 @@ R. Beáta es Virgo María, Dei Génitrix, quæ credidísti Dómino: perfécta su
 V. Ave María, grátia plena, Dóminus tecum.
 R. Intercéde pro nobis ad Dóminum Deum nostrum.
 
+[MM Capitulum]
+@Commune/C10:Capitulum Sexta
+_
+@Commune/C10:Responsory Tertia:s/.*_.//s
+
 [Capitulum Laudes]
-@CommuneM/C10:Capitulum Vespera
+@CommuneM/C10
+
+[Responsory Laudes]
+@CommuneM/C10:Responsory Vespera
 
 [Hymnus Laudes]
 @Commune/C10:HymnusM Laudes
 
-[Responsory Tertia]
-@CommuneM/C10:Responsory Tertia
+[Responsory TertiaM]
+@CommuneM/C10:Responsory TertiaM
 
-[Responsory Sexta]
-@CommuneM/C10:Responsory Sexta
+[Responsory SextaM]
+@CommuneM/C10:Responsory SextaM
 
-[Responsory Nona]
-@CommuneM/C10:Responsory Nona
-
+[Responsory NonaM]
+@CommuneM/C10:Responsory NonaM

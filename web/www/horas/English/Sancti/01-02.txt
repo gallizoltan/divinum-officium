@@ -1,10 +1,10 @@
 [Rank]
 In Octava S. Stephani.;;Simplex;;1.1;;vide Sancti/12-26
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Die Secunda Januarii;;Feria;;1.2;;vide Sancti/01-01
 
-[RankTrident]
+[Rank] (rubrica tridentina)
 In Octava Sancti Stephani.;;Duplex;;3;;ex Sancti/12-26
 
 [Rule]
@@ -122,6 +122,3 @@ O Almighty and everlasting God, Who hast dedicated the first-fruits of Thy~
 Martyrs with the blood of the Blessed Stephen; grant, we beseech Thee, that the~
 same may pray for us also, who prayed even for his murderers to our Lord Jesus Christ Thy Son:
 $Qui tecum
-
-[Capitulum Vespera](rubrica 1960)
-@Sancti/01-01:Capitulum Vespera

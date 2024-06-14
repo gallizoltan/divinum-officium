@@ -1,10 +1,5 @@
 @Commune/C6
 
-[Capitulum Vespera]
-@Commune/C6
-_
-@Commune/C6:Responsory Sexta:1-6
-
 [AntMatutinumM]
 Unguéntum effúsum * nomen tuum; ideo adolescéntulæ dilexérunt te nimis;;96
 Pulchra es * et decóra fília Jerúsalem, terríbilis ut castrórum ácies ordináte;;97
@@ -81,7 +76,6 @@ R. Ecce sponsus venit, exíte óbviam ei.
 @Commune/C6:Lectio7:s/.*vacuetur. Ecce /Ecce / s/$/~/s
 @Commune/C6:Lectio8:s/ Sed sc.*/ /
 
-
 [Responsory10]
 @Commune/C6:Responsory8
 
@@ -103,21 +97,13 @@ R.br. Símile est regnum cælórum decem virgínibus, qui accipiéntes lámpadas
 V. Quinque autem ex eis erunt fátue, et quinque prudéntes
 R. Exiérunt óbviam sponso et sponsæ
 
-[Capitulum Laudes]
-@Commune/C6
-_
-@Commune/C6:Responsory Tertia:1-6
-
-[Capitulum Tertia]
-@Commune/C6
-
-[Responsory Tertia]
+[Responsory TertiaM]
 @Commune/C6:Versum 1
 
-[Responsory Sexta]
+[Responsory SextaM]
 @Commune/C6:Responsory Tertia:8-9
 
-[Responsory Nona]
+[Responsory NonaM]
 @Commune/C6:Responsory Sexta:8-9
 
 [Lectio1 in 2 loco]
@@ -165,7 +151,7 @@ _
 @Commune/C6:Lectio7 in 2 loco:s/ sub med./ n. 3/ s/Quibus.*//
 
 [Lectio10 in 3 loco]
-@Commune/C6:Lectio7 in 2 loco:s/.* Quibus /Quibus / s/$/~/s
+@Commune/C6:Lectio7 in 2 loco:s/.* Quibus /Quibus /s s/$/~/s
 @Commune/C6:Lectio8 in 2 loco:s/Grátias.*//
 
 [Lectio11 in 3 loco]
@@ -212,3 +198,9 @@ Postea vero, quam surrexérunt, id est, in resurrectióne a mórtuis, cœpérunt
 
 [Lectio12 in 5 loco]
 Sint in vobis quinque prudéntes ad istam prudéntiam quinárii númeri pertinéntes. Véniet enim hora, et quando nescímus, véniet. Sic clausit Evangélium: Vigiláte, quia nescítis diem neque horam. Corde vígila, fide vígila, spe vígila, caritáte vígila, opéribus vígila: et quando córpore dormíveris, véniet tempus ut surgas. Cum autem surréxeris, præpara lámpades. Tunc non exstinguántur, tunc interióre consciéntiæ óleo vegeténtur: tunc sponsus ille incorpóreis néxibus amplectátur, tunc te introdúcat in domum, ubi numquam dórmias, ubi nunquam possit tua lampas exstíngui. Hódie vero laborámus, et lámpades nostræ inter ventos sæculi huius tentationésque flúctuant; sed árdeat in róbore flamma nostra, ut ventus tentatiónis áugeat ignem pótius, quam exstínguat.
+
+[MM Capitulum]
+@Commune/C6:Capitulum Sexta
+_
+V. Dilexísti justítiam, et odísti iniquitátem:
+R. Proptérea unxit te Deus, Deus tuus, óleo lætítiæ.

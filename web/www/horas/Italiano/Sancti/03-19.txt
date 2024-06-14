@@ -1,7 +1,7 @@
 [Rank]
 S. Joseph Sponsi B.M.V. Confessoris;;Duplex I classis;;6.1;;
 
-[Rank1570]
+[Rank] (rubrica 1570)
 S. Joseph Sponsi B.M.V. Confessoris;;Duplex;;3;;
 
 [Rule]
@@ -17,11 +17,6 @@ Fu mandato * l'Angelo Gabriele da Dio ad una Vergine sposata a un uomo di nome G
 Maria Madre di Gesù, * sposata a Giuseppe, prima che fossero insieme, si scoperse che stava per esser madre per opera dello Spirito Santo.;;111
 Giuseppe, marito di lei, * essendo giusto e non volendo esporla all'infamia, pensò di rimandarla segretamente.;;112
 Un Angelo del Signore * apparve a Giuseppe, e gli disse : Giuseppe, figlio di David, non esitare a prendere Maria in tua consorte; perché quel ch'è nato in lei, è per opera dello Spirito Santo; ella darà alla luce un figlio, cui tu porrai nome Gesù.;;116
-
-[Capitulum Vespera]
-!Prov 28:20; 27:18
-v. L'uomo fedele sarà molto lodato. E chi ha cura del suo Signore, sarà glorificato.
-$Deo gratias
 
 [Hymnus Vespera]
 v. Te, Giuseppe, celebrino le schiere celesti, 
@@ -261,11 +256,6 @@ Quand'egli, Gesù, * cominciò il suo ministero, aveva circa trent'anni, e lo si
 [Lectio Prima]
 !Sap 10:10
 v. La Sapienza condusse il giusto fuggitivo per vie dritte, e gli mostrò il regno di Dio, e gli diede la scienza delle cose sante: l'arricchì nei travagli e rese feconde le sue fatiche.
-
-[Capitulum Tertia]
-!Prov 28:20; 27:18
-v. L'uomo fedele sarà molto lodato. E chi ha cura del suo Signore, sarà glorificato.
-$Deo gratias
 
 [Responsory Tertia]
 R.br. Lo costituì * Padrone della sua casa.

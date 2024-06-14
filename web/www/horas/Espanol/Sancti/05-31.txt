@@ -1,7 +1,7 @@
 [Rank]
 Beatæ Mariæ Virginis Reginæ;;Duplex II classis;;5.1;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Beatæ Mariæ Virginis Reginæ;;Duplex II classis;;5;;ex C11
 
 [RankNewcal]
@@ -14,11 +14,6 @@ Ipsa Virgo Virginum
 Doxology=Nat
 Antiphonas horas
 Psalmi Dominica
-
-[Capitulum Vespera]
-!Sir 24, 5; 24, 7
-v. Yo salí de la boca del Altísimo como primogénita de toda la creación. Habité en lo más alto, con mi trono sobre un pilar de nubes.
-$Deo gratias
 
 [Versum 1]
 V. Salve, Reina de misericordia, aleluya.
@@ -188,7 +183,9 @@ María es Reina también y distribuidora de la gracia. Esto se indica en el libr
 &teDeum
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Sir 24, 5; 24, 7
+v. Yo salí de la boca del Altísimo como primogénita de toda la creación. Habité en lo más alto, con mi trono sobre un pilar de nubes.
+$Deo gratias
 
 [Versum 2]
 V. La Virgen María subió al cielo. Aleluya.
@@ -200,9 +197,6 @@ Noble Reina del mundo, * María, Virgen perpetua, Tú que engendraste a Cristo, 
 [Lectio Prima]
 !Sir 24:30-31
 v. El que me escucha no se avergonzará, el que trabaja conmigo no pecará. Los que me explican tendrán la vida eterna.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Responsory Tertia]
 R.br. Salve, Reina de misericordia * Aleluya, aleluya. 

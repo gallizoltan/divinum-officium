@@ -1,5 +1,5 @@
 [Rank]
-St Jean Apôtre et Evangeliste;;Duplex II Class cum octava simplici;;5.3;;ex C1
+St Jean Apôtre et Evangéliste;;Duplex II Class cum octava simplici;;5.3;;ex C1
 
 [Rule]
 ex C1;
@@ -123,7 +123,7 @@ R. Heureux Apôtre, à qui furent révélés les secrets célestes.
 R. Heureux Apôtre, à qui furent révélés les secrets célestes.
 
 [Lectio9]
-L’une est donc bonne, mais encore pleine de misères ; l’autre est meilleure et bienheureuse. Celle-là est signifiée par l’Apôtre Pierre, celle-ci par Jean. Celle-là s’écoule tout entière ici-bas jusqu’à la fin de ce monde, et y trouve son terme ; celleci ne sera complète qu’après la fin de ce monde, mais n’aura point de fin dans le monde futur. C’est pourquoi on dit à celui-là : Suis-moi. Quant à celui-ci : Je veux qu’il demeure ainsi jusqu’ à ce que je vienne. Que t’importe ? mais toi, sms-moi. Que veut donc dire cela? Autant que j’en puis juger, autant que je comprends, qu’est-ce que cela veut dire, si ce n’est ceci : Toi, suis-moi en imitant mon support des maux temporels ; mais que celui-là demeure jusqu’à ce que je vienne donner les biens étemels.
+L’une est donc bonne, mais encore pleine de misères ; l’autre est meilleure et bienheureuse. Celle-là est signifiée par l’Apôtre Pierre, celle-ci par Jean. Celle-là s’écoule tout entière ici-bas jusqu’à la fin de ce monde, et y trouve son terme ; celle-ci ne sera complète qu’après la fin de ce monde, mais n’aura point de fin dans le monde futur. C’est pourquoi on dit à celui-là : Suis-moi. Quant à celui-ci : Je veux qu’il demeure ainsi jusqu’à ce que je vienne. Que t’importe ? mais toi, sms-moi. Que veut donc dire cela? Autant que j’en puis juger, autant que je comprends, qu’est-ce que cela veut dire, si ce n’est ceci : Toi, suis-moi en imitant mon support des maux temporels ; mais que celui-là demeure jusqu’à ce que je vienne donner les biens étemels.
 &teDeum
 
 [Ant Laudes]
@@ -148,9 +148,6 @@ Celui-ci est Jean, * qui reposa pendant la Cène sur la poitrine du Seigneur ; b
 [Lectio Prima]
 !Sir 15:5
 v. Au milieu de l’Église, il a ouvert la bouche et le Seigneur l’a rempli de l’Esprit de sagesse et d’intelligence et l’a revêtu de sa robe de gloire.
-
-[Capitulum Tertia]
-@:Capitulum Laudes
 
 [Capitulum Sexta]
 !Sir 15:3

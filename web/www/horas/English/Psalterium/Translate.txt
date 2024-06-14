@@ -28,8 +28,14 @@
 [#Canticum]
 #Canticle
 
+[#Canticum: Benedictus]
+#Canticle: Benedictus
+
+[#Canticum: Magnificat]
+#Canticle: Magnificat
+
 [#Canticum Nunc dimittis]
-#Canticle Nunc dimittis
+#Canticle: Nunc dimittis
 
 [#Preces Dominicales]
 #Sunday Intercessions
@@ -92,7 +98,7 @@ The Lord be with you
 O Lord hear my prayer
 
 [secunda Domine exaudi omittitur]
-omit second O Lord hear my prayer
+omit second "O Lord hear my prayer"
 
 [Confiteor]
 I confess
@@ -194,13 +200,13 @@ Antiphons
 and psalms
 
 [Psalmi, antiphonae]
-Psalms, antiphons
+Psalms & antiphons
 
 [Psalmi et antiphonae]
-Psalms and antiphons
+Psalms & antiphons
 
 [Psalmi Dominica, antiphonae]
-Psalms for Sunday, antiphons
+Psalms for Sunday & antiphons
 
 [Evangelist]
 Matt|Mark|Luke|John
@@ -225,3 +231,42 @@ Sunday
 
 [Octava]
 Octave
+
+[Psalmi graduales]
+The Gradual Psalms
+
+[Septem psalmi paenitentiales]
+The Seven Penitential Psalms 
+
+[Litaniae]
+Litany of the Saints
+
+[Ordo Commendationis Animae]
+Recommendation of soul departing
+
+[Benedictio mensae]
+Grace before and after Meal
+
+[#ANTE PRANDIUM]
+#Before dinner.
+
+[#POST PRANDIUM]
+#After dinner.
+
+[#ANTE COENAM]
+#Before supper.
+
+[#IN FINE COENE]
+#After supper.
+
+[Itinerarium]
+Prayers for a Journey
+
+[Nocturn]
+Nocturn
+
+[Adjutorium nostrum]
+Our help is
+
+[Pater secreto]
+Our Father

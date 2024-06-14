@@ -4,9 +4,6 @@ S. Joseph Sponsi B.M.V. Confessoris;;Duplex I classis;;6.1;;
 [Rank](rubrica 1960 aut rubrica innovata)
 S. Joseph Sponsi B.M.V. Confessoris;;Duplex I classis;;6;;
 
-[Rank] (rubrica 1570)
-S. Joseph Sponsi B.M.V. Confessoris;;Duplex;;3;;
-
 [Rule]
 proper
 Psalmi Dominica
@@ -20,11 +17,6 @@ Missus est * Angelus Gábriel a Deo ad Vírginem desponsátam viro, cui nomen er
 Cum esset desponsáta * Mater Jesu María Joseph, ántequam convenírent, invénta est in útero habens de Spíritu Sancto.;;111
 Joseph vir ejus, * cum esset justus, et nollet eam tradúcere, vóluit occúlte dimíttere eam.;;112
 Angelus Dómini * appáruit Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est: páriet autem fílium, et vocábis nomen ejus Jesum.;;116
-
-[Capitulum Vespera]
-!Prov 28:20; 27:18
-v. Vir fidélis multum laudábitur. Et, qui custos est Dómini sui, glorificábitur.
-$Deo gratias 
 
 [Hymnus Vespera]
 v. Te, Joseph, célebrent ágmina cǽlitum,
@@ -217,7 +209,9 @@ Dixit Mater ejus * ad illum: Fili, quid fecísti nobis sic? Ecce pater tuus, et 
 Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis.
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Prov 28:20; 27:18
+v. Vir fidélis multum laudábitur. Et, qui custos est Dómini sui, glorificábitur.
+$Deo gratias 
 
 [Hymnus Laudes]
 v. Iste, quem læti cólimus, fidéles,
@@ -256,9 +250,6 @@ Ipse Jesus * erat incípiens quasi annórum trigínta, ut putabátur, fílius Jo
 [Lectio Prima]
 !Sap 10:10
 v. Prófugum justum dedúxit Sapiéntia per vias rectas, et osténdit illi regnum Dei, et dedit illi sciéntiam sanctórum; honestávit illum in labóribus, et complévit labóres illíus. 
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Responsory Tertia]
 R.br. Constítuit eum * Dóminum domus suæ.
