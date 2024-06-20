@@ -26,8 +26,8 @@ V. Adj, Uram, * örök nyugodalmat nekik.
 R. És az örök világosság * fényeskedjék nekik.
 
 [Alleluia]
-v. Alleluja.
-v. Dicséret neked Urunk, örök dicsőség királya.
+v. Allelúia.
+v. Dicséret neked, Urunk, örök dicsőség Királya.
 
 [Dominus]
 V. Az Úr legyen veletek.
@@ -46,14 +46,14 @@ v. Irgalmazzon nekünk a mindenható Isten, bocsássa meg vétkeinket és vezess
 v. Vétkeink elengedését, + feloldozását és bocsánatát adja meg nekünk a mindenható és irgalmas Úr. Ámen.
 
 [Domine labia]
-V. Nyisd meg, ++ Uram, ajkamat,
-R. Hogy dicséretedet hirdesse szavam!
+V. Uram, nyisd meg ++ ajkamat.
+R. Hogy dicséretedet hirdesse szavam.
 
 [Deus in adjutorium]
-V. Istenem, + jöjj segítségemre!
-R. Uram, segíts meg engem!
-v. Dicsőség az Atyának és Fiúnak * és Szentlélek Istennek,
-Miképpen kezdetben vala, most és mindenkor * és mindörökkön-örökké. Ámen.
+V. Isten, + figyelmezz az én segítségemre.
+R. Uram, siess megsegíteni engem.
+V. Dicsőség az Atyának, és Fiúnak * és Szentlélek Istennek.
+R. Miképpen kezdetben vala most és mindenkor és mindörökkön örökké. Ámen.
 
 [Tu autem]
 V. Te pedig, Uram, irgalmazz nekünk.
@@ -64,8 +64,8 @@ V. Áldjuk az Urat.
 R. Istennek legyen hála.
 
 [Benedicamus Domino1]
-V. Áldjuk az Urat, alleluja, alleluja.
-R. Istennek legyen hála, alleluja, alleluja.
+V. Áldjuk az Urat, allelúia, allelúia.
+R. Istennek legyen hála, allelúia, allelúia.
 
 [Deo gratias]
 R. Istennek legyen hála.
@@ -191,10 +191,10 @@ Az Isten áldása + maradjon mindig velünk.
 És távollévő testvéreinkkel. Ámen.
 
 [Alleluia Simplex]
-, alleluja.
+, allelúia.
 
 [Alleluia Duplex]
-Alleluja, alleluja.
+Allelúia, allelúia.
 
 [Preces feriales Laudes]
 v. Uram, irgalmazz nekünk! Krisztus, kegyelmezz nekünk! Uram, irgalmazz nekünk!
