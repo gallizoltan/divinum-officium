@@ -1,0 +1,13 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^divinumofficium.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www.divinumofficium.net$
+RewriteRule ^/?(.*)$ http://www.divinumofficium.com/$1 [R=301,L]
+
+# Enforce HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+Options +ExecCGI
+AddHandler cgi-script .pl
