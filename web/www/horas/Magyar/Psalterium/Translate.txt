@@ -80,10 +80,10 @@ Dicsőség
 Adj, Uram, örök nyugodalmat nekik
 
 [Alleluia]
-Alleluja.
+Allelúia.
 
 [Laus tibi]
-Dicséret neked Urunk, örök dicsőség királya.
+Dicséret neked, Urunk, örök dicsőség Királya.
 
 [Dominus vobiscum]
 Az Úr legyen veletek
@@ -122,7 +122,7 @@ Nyisd meg, Uram, számat
 Áldjuk az Urat
 
 [Benedicamus Domino alleluia]
-Áldjuk az Urat, alleluja, alleluja
+Áldjuk az Urat, allelúia, allelúia
 
 [Benedictio]
 Áldás
