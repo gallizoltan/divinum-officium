@@ -72,9 +72,7 @@ tápláló kenyeret ad a mennyből, az éhezőket javakkal tölti el, de a gazda
 üres kézzel küldi el.
 
 [Oratio]
-Urunk, ki csodálatos Sacramentumod által szenvedésed emlékezetéd hagytad reánk,~
-add kérünk, hogy akik szent tested és véred titkait ünnepeljük, annak gyümölcsit~
-élvezhessük
+Isten, ki nekünk e csodálatos szentségben kínszenvedésed emlezetét hagytad ránk, engedd, kérünk tested és véred szent misztériumát úgy tisztelnünk, hogy megváltásodnak gyümölcsét magunkban szüntelenül érezzük.
 $Qui vivis
 
 [Invit]
