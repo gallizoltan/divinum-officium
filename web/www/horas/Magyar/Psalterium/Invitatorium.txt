@@ -1,14 +1,14 @@
 $ant
 $ant
-v. Jertek, örvendezzünk az Úrnak, + vigadjunk a mi szabadító Istenünknek: * Járuljunk orcája elé hálaadással, és zsoltárokkal vigadjunk neki. 
+v. Jöjjetek, örvendezzünk az Úrnak, + vigadjunk a mi szabadító Istenünknek, * járuljunk az ő színe elé hálaadással és zsoltárok dicséretével vigadozzunk néki.
 $ant
-v. Mert nagy Isten az Úr, és nagy király minden istenek fölött, mert nem taszítja el népét az Úr; mert kezében vagyon a föld minden határa, és övéi a hegyek magasságai. 
+v. Mert nagy Úr az Isten és nagy Király ő minden istenek fölött, mert nem űzi el az Úr az ő népét, mert kezében vannak a földnek mélységei, és a hegyeknek magasságára ő letekint.
 $ant2
-v. Mert övé a tenger, és ő alkotta azt, és az ő kezei alakították a szárazat. /:(térdet hajtunk):/ Jertek, imádva boruljunk le Isten előtt, és sírjunk az Úr előtt, ki minket alkotott: Mert ő a mi Urunk, Istenünk, és mi az ő legelőjének népe, és kezeinek juhai.
+v. Mert övé a tenger, és ő alkotta azt, és a szárazföldet az ő keze formálta. /:(térdet hajtunk):/ Jöjjetek, imádjuk és boruljunk le előtte, esedezzünk az Úrnak, ki minket alkotott, mert ő a mi Urunk Istenünk, és mi az ő népe vagyunk és legelőjének nyája!
 $ant
-v. Ma, ha az ő szavát halljátok, meg ne keményítsétek szíveteket, ^ mint ama bosszantással a kísértés napján a pusztában: hol megkísértettek engem atyáitok, próbára tettek engem, bár látták cselekedeteimet.
+v. Midőn ma az ő szavát halljátok, meg ne keményítsétek szíveteket, ^ mint a kísértés napján a pusztában, hol megkísértettek engem atyáitok, megpróbáltak engem, bár látták tetteimet!
 $ant2
-v. Negyven esztendeig bosszantott engem e nemzedék, és mondám; Ezek szívükben mindenkor tévelyegnek: És nem ismerték meg az én utaimat, úgy hogy megesküdtem haragomban; Nem mennek be az én nyugodalmamba.
+v. Negyven esztendeig volt bántásomra e nemzedék, és mondtam: Ezek mindenkor tévelyegnek szívükben, és nem ismerték fel az én utaimat. Azért megesküdtem haragomban: Bizony nem mennek be az én nyugalmamba.
 $ant
 &Gloria
 $ant2
