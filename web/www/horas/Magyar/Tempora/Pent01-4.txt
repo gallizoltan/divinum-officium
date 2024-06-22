@@ -72,7 +72,7 @@ tápláló kenyeret ad a mennyből, az éhezőket javakkal tölti el, de a gazda
 üres kézzel küldi el.
 
 [Oratio]
-Isten, ki nekünk e csodálatos szentségben kínszenvedésed emlezetét hagytad ránk, engedd, kérünk tested és véred szent misztériumát úgy tisztelnünk, hogy megváltásodnak gyümölcsét magunkban szüntelenül érezzük.
+Isten, ki nekünk e csodálatos Szentségben kínszenvedésed emlékezetét hagytad ránk, engedd, kérünk tested és véred szent misztériumát úgy tisztelnünk, hogy megváltásodnak gyümölcsét magunkban szüntelenül érezzük.
 $Qui vivis
 
 [Invit]
