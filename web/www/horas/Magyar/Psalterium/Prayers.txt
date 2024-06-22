@@ -68,11 +68,11 @@ V. Uram, adj nekünk békét.
 R. És örök életet. Ámen.
 
 [Gloria]
-V. Dicsőség az Atyának és Fiúnak * és Szentlélek Istennek,
-R. Miképpen kezdetben vala, most és mindenkor * és mindörökkön-örökké. Ámen.
+V. Dicsőség az Atyának, és Fiúnak * és Szentlélek Istennek,
+R. Miképpen kezdetben vala most és mindenkor * és mindörökkön-örökké. Ámen.
 
 [Gloria1]
-V. Dicsőség az Atyának, és a Fiúnak, * és a Szentlélek Istennek;
+V. Dicsőség az Atyának, és Fiúnak * és Szentlélek Istennek;
 
 [Requiem]
 V. Adj, Uram, * örök nyugodalmat nekik.
@@ -106,7 +106,7 @@ R. Hogy dicséretedet hirdesse szavam.
 V. Isten, + figyelmezz az én segítségemre.
 R. Uram, siess megsegíteni engem.
 V. Dicsőség az Atyának, és Fiúnak * és Szentlélek Istennek.
-R. Miképpen kezdetben vala most és mindenkor és mindörökkön örökké. Ámen.
+Miképpen kezdetben vala most és mindenkor és mindörökkön örökké. Ámen.
 
 [Tu autem]
 V. Te pedig, Uram, irgalmazz nekünk.
