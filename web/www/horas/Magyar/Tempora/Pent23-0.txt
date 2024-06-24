@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Bocsásd meg, kérünk, Urunk, népeknek bűneit, hogy vétkeinket bilincséből, melyeket gyarlóságunkkal vettünk magunkra, a te jóságod által kiszabaduljunk.
+Bocsásd meg, kérünk, Urunk, népednek bűneit, hogy vétkeinket bilincséből, melyeket gyarlóságunkkal vettünk magunkra, a te jóságod által kiszabaduljunk.
 $Per Dominum
 
 [Lectio7]

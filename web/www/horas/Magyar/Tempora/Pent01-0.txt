@@ -29,7 +29,7 @@ Miképpen volt, mindenkoron
 Ámen.
 
 [Oratio]
-Mindenható örök Isten, ki megadtad szolgáidnak hogy az igaz hit megvallásában az örök Szentháromság dicsőségét megismerhessék, és nagyhatalmú fölségében az egységet imádhassuk, kérünk, hogy ezen erős hitünk minden bajtól őrizzen meg minket.
+Mindenható örök Isten, ki megadtad szolgáidnak, hogy az igazi hit megvallásában az örök Szentháromság dicsőségét megismerhessék, és nagyhatalmú fölségében az egységet imádhassuk, kérünk, hogy ezen erős hitünk minden bajtól őrizzen meg minket.
 $Per Dominum
 
 [OratioW]

@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Mindenható és Irgalmas Isten, akinek kegyelméből származik, hogy híveid neked méltóan és dicséretesen szolgálnak, add meg nekünk kérünk, hogy ígéreteid felé minden akadály nélkül futhassunk.
+Mindenható és irgalmas Isten, akinek kegyelméből származik, hogy híveid neked méltóan és dicséretesen szolgálnak, add meg nekünk kérünk, hogy ígéreteid felé minden akadály nélkül futhassunk.
 $Per Dominum
 
 [Lectio7]

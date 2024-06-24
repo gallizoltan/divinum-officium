@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Könyörgő imádságunkra, Urunk, nyíljék meg irgalmas füled, és hogy a téged kérők imádságait meg hallgasd, tedd meg, hogy neked tetsző dolgokat kérjenek.
+Könyörgő imádságunkra, Urunk, nyíljék meg irgalmas füled, és hogy a téged kérők kívánságait megadhasd, tedd meg, hogy neked tetsző dolgokat kérjenek.
 $Per Dominum
 
 [Lectio1]

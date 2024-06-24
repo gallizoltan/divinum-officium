@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Őrizd meg, kérünk, Urunk Egyházadat örök irgalommmal, és mert nélküled erőtlen a halandó ember, a te segítséged vonja el mindig az ártalmas dolgoktól, és vezesse az üdvösekre.
+Őrizd meg, kérünk, Urunk, Egyházadat örök irgalommmal, és mert nélküled erőtlen a halandó ember, a te segítséged vonja el mindig az ártalmas dolgoktól, és vezesse az üdvösekre.
 $Per Dominum
 
 [Lectio7]
