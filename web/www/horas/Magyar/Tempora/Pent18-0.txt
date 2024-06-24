@@ -8,7 +8,8 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Vezesse szívünket, kérünk, Urunk irgalmas működésed, mert nélküled nem lehetünk előtted kedvesek.
+Irányitsd szivünket, kérünk Urunk, a te irgalmaddal: mert nélküled nem tudunk~
+kedvedre méltóan élni
 $Per Dominum
 
 [Lectio7]
